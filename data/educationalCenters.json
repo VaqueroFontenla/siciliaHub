@@ -1,0 +1,5762 @@
+[
+  {
+    "name": "CEIP Antonio Carpintero",
+    "address": "Rúa Miguel Davila, s/n (Consistorio)",
+    "type": "CEIP",
+    "latitude": "42.1130",
+    "longitude": "-8.3136",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Amor Ruibal",
+    "address": "Perdecanai (Santa María)",
+    "type": "CEIP",
+    "latitude": "42.5239",
+    "longitude": "-8.6372",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI de Cova Terreña",
+    "address": "Dolores Agrelo s/n",
+    "type": "CPI",
+    "latitude": "42.1167",
+    "longitude": "-8.8527",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP de Sabarís",
+    "address": "Avenida Doutor Fariñas, 26 (Sabarís)",
+    "type": "CEP",
+    "latitude": "42.1083",
+    "longitude": "-8.8202",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Montemogos",
+    "address": "Rúa Montemogos s/n",
+    "type": "CEIP",
+    "latitude": "42.3257",
+    "longitude": "-8.8083",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe A Pedra",
+    "address": "Rúa A Pedra 26",
+    "type": "CEIP",
+    "latitude": "42.3206",
+    "longitude": "-8.7864",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Virgen Milagrosa",
+    "address": "Rúa Fontenla 55",
+    "type": "CPR",
+    "latitude": "42.3248",
+    "longitude": "-8.7872",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "ESCO DE FP MARÍTIMO PESQUEIRA",
+    "address": "Rúa Pazos Fontenla s/n",
+    "type": "ESCO",
+    "latitude": "42.3269",
+    "longitude": "-8.7814",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe da Torre-Cela",
+    "address": "A Torre 75",
+    "type": "CEIP",
+    "latitude": "42.3281",
+    "longitude": "-8.7594",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI Plurilingüe Alfonso VII",
+    "address": "Rúa Jose Salgado 18",
+    "type": "CPI",
+    "latitude": "42.6040",
+    "longitude": "-8.6372",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe San Fermín",
+    "address": "Rúa Fermín Mosquera 2",
+    "type": "CPR",
+    "latitude": "42.6041",
+    "longitude": "-8.6472",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe La Encarnación",
+    "address": "Avenida Dolores Mosquera 4",
+    "type": "CPR",
+    "latitude": "42.6060",
+    "longitude": "-8.6432",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEP Antonio Magariños Pastoriza",
+    "address": "Avenida Vilariño 29",
+    "type": "CEP",
+    "latitude": "42.5159",
+    "longitude": "-8.8116",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Ramón Cabanillas",
+    "address": "Avenida Rosalía Castro s/n",
+    "type": "IES",
+    "latitude": "42.5193",
+    "longitude": "-8.8110",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Castrelo",
+    "address": "Rúa A BOUZA 96",
+    "type": "CEIP",
+    "latitude": "42.4805",
+    "longitude": "-8.8073",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Salesianos A Mercé",
+    "address": "Serantellos 1",
+    "type": "CPR",
+    "latitude": "42.4898",
+    "longitude": "-8.8025",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe Enrique Barreiro Piñeiro",
+    "address": "Rúa Sineiro",
+    "type": "CEIP",
+    "latitude": "42.5181",
+    "longitude": "-8.7926",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Pedro Antonio Cerviño",
+    "address": "A Lagoa",
+    "type": "CEIP",
+    "latitude": "42.5424",
+    "longitude": "-8.5433",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Sagrada Familia",
+    "address": "Avenida Xose Graña 44",
+    "type": "CPR",
+    "latitude": "42.2810",
+    "longitude": "-8.8194",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Agrupación Musical do Rosal",
+    "address": "Rúa Couso s/n - Auditorio do Concello",
+    "type": "EMUSPR",
+    "latitude": "41.9347",
+    "longitude": "-8.8357",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Atlántida",
+    "address": "Rúa dos Canteiros, 53 - Matama",
+    "type": "EMUSPR",
+    "latitude": "42.2012",
+    "longitude": "-8.7339",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEIP Nazaret",
+    "address": "Rúa REAL-NAZARET s/n",
+    "type": "CEIP",
+    "latitude": "42.2649",
+    "longitude": "-8.7861",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Casa de la Virgen",
+    "address": "Rúa Rodeira 12",
+    "type": "CPR",
+    "latitude": "42.2613",
+    "longitude": "-8.7660",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES María Soliño",
+    "address": "Monte Carrasco 3",
+    "type": "IES",
+    "latitude": "42.2775",
+    "longitude": "-8.7915",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe do Castrillón-Coiro",
+    "address": "Rúa O Castrillón s/n",
+    "type": "CEIP",
+    "latitude": "42.2748",
+    "longitude": "-8.7718",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Compañía de María",
+    "address": "Rúa Enseñanza, 19 - Cima de Vila",
+    "type": "CPR",
+    "latitude": "42.2679",
+    "longitude": "-8.7873",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe de San Roque de Darbo",
+    "address": "Rúa San Roque Darbo",
+    "type": "CEIP",
+    "latitude": "42.2565",
+    "longitude": "-8.7951",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP do Hío",
+    "address": "Rúa Antonio Graña 27",
+    "type": "CEIP",
+    "latitude": "42.2666",
+    "longitude": "-8.8255",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe San Xoán Bautista",
+    "address": "Rúa das Longas, 23 (Cerdedo)",
+    "type": "CEIP",
+    "latitude": "42.5336",
+    "longitude": "-8.3890",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Carballedo",
+    "address": "Cuqueira s/n",
+    "type": "CEIP",
+    "latitude": "42.4747",
+    "longitude": "-8.4763",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EMUSPR Unión de Guláns",
+    "address": "O Casal 31",
+    "type": "EMUSPR",
+    "latitude": "42.1543",
+    "longitude": "-8.5388",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe de Tenorio",
+    "address": "O Rio Tenorio",
+    "type": "CEIP",
+    "latitude": "42.4627",
+    "longitude": "-8.5607",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Antonio Blanco Rodríguez",
+    "address": "Rúa Lamela 6",
+    "type": "CEIP",
+    "latitude": "42.2310",
+    "longitude": "-8.3654",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Manuel Sieiro",
+    "address": "Estrada GARCIA NEIRA 23",
+    "type": "CEIP",
+    "latitude": "42.1474",
+    "longitude": "-8.2237",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Nosa Señora das Dores",
+    "address": "Rúa MALEITAS s/n",
+    "type": "CEIP",
+    "latitude": "42.5851",
+    "longitude": "-8.3551",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Soutelo de Montes",
+    "address": "Soutelo de Montes",
+    "type": "CEIP",
+    "latitude": "42.5349",
+    "longitude": "-8.2950",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Doutor Suárez",
+    "address": "Rúa das Escolas 7",
+    "type": "CEIP",
+    "latitude": "42.3412",
+    "longitude": "-8.4526",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Chano Piñeiro",
+    "address": "Rúa Pousa de Fontan",
+    "type": "CEIP",
+    "latitude": "42.1126",
+    "longitude": "-8.7686",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Rosalía de Castro",
+    "address": "Rúa Rosalia de Castro 22",
+    "type": "CEIP",
+    "latitude": "42.4924",
+    "longitude": "-8.8677",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Nuestra Señora del Carmen",
+    "address": "Rúa Luis A.Mestre 31",
+    "type": "CPR",
+    "latitude": "42.4920",
+    "longitude": "-8.8660",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEIP Valle-Inclán",
+    "address": "Ardia 14",
+    "type": "CEIP",
+    "latitude": "42.4808",
+    "longitude": "-8.8606",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Manuel Rodríguez Sinde",
+    "address": "Rúa Tui 15",
+    "type": "CEIP",
+    "latitude": "41.8993",
+    "longitude": "-8.8711",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Padres Somascos",
+    "address": "Rúa Pacifico Rodriguez 6",
+    "type": "CPR",
+    "latitude": "41.9019",
+    "longitude": "-8.8716",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe San José",
+    "address": "Camiño de Curras 2",
+    "type": "CPR",
+    "latitude": "41.9058",
+    "longitude": "-8.8662",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP de Ardán",
+    "address": "Ardán (Santa María)",
+    "type": "CEIP",
+    "latitude": "42.3497",
+    "longitude": "-8.7453",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe do Carballal",
+    "address": "Viñas Blancas, s/n (O Carballal)",
+    "type": "CEIP",
+    "latitude": "42.3832",
+    "longitude": "-8.6891",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe da Laxe",
+    "address": "Rúa REPUBLICA ARXENTINA 40",
+    "type": "CEIP",
+    "latitude": "42.3885",
+    "longitude": "-8.6942",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Sequelo-Marín",
+    "address": "Rúa ENRIQUE TURRALL s/n",
+    "type": "CEIP",
+    "latitude": "42.3846",
+    "longitude": "-8.7008",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe La Inmaculada",
+    "address": "Rúa A Estrada 8",
+    "type": "CPR",
+    "latitude": "42.3917",
+    "longitude": "-8.7002",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe San Narciso",
+    "address": "Lugar CHAN DO MONTE 27",
+    "type": "CPR",
+    "latitude": "42.3893",
+    "longitude": "-8.7081",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES Illa de Tambo",
+    "address": "Rúa da Estrada",
+    "type": "IES",
+    "latitude": "42.3910",
+    "longitude": "-8.8606",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Seixo",
+    "address": "Seixo (Nosa Señora Do Carme)",
+    "type": "CEIP",
+    "latitude": "42.3673",
+    "longitude": "-8.7293",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Coirón-Dena",
+    "address": "Rúa dos Colexios",
+    "type": "CEIP",
+    "latitude": "42.4559",
+    "longitude": "-8.8122",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI de Mosteiro-Meis",
+    "address": "Mosteiro",
+    "type": "CPI",
+    "latitude": "42.5188",
+    "longitude": "-8.7054",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Domaio",
+    "address": "Rúa Verdeal 23",
+    "type": "CEIP",
+    "latitude": "42.2941",
+    "longitude": "-8.6789",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Reibón",
+    "address": "Xunqueira, 17 (Reibon)",
+    "type": "CEIP",
+    "latitude": "42.2885",
+    "longitude": "-8.7284",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Plurilingüe A Paralaia",
+    "address": "Lugar O Redondo s/n",
+    "type": "IES",
+    "latitude": "42.2941",
+    "longitude": "-8.7353",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI de Mondariz",
+    "address": "Avenida Grupo Escolar 39",
+    "type": "CPI",
+    "latitude": "42.2358",
+    "longitude": "-8.4540",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Mondariz-Balneario",
+    "address": "Rúa da Constitucion 21",
+    "type": "CEIP",
+    "latitude": "42.2240",
+    "longitude": "-8.4720",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EFOG Divino Maestro",
+    "address": "Rúa Calvo Sotelo 4",
+    "type": "EFOG",
+    "latitude": "42.2253",
+    "longitude": "-8.4697",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI Plurilingüe Santa Lucía",
+    "address": "Rúa Sete 34",
+    "type": "CPI",
+    "latitude": "42.5854",
+    "longitude": "-8.5872",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Mestre Martínez Alonso",
+    "address": "Rúa Castro 50",
+    "type": "CEIP",
+    "latitude": "42.1997",
+    "longitude": "-8.6058",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Lar",
+    "address": "Camiño Eido San Antonio 3",
+    "type": "CPR",
+    "latitude": "42.2065",
+    "longitude": "-8.6598",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe Marquesa do Pazo da Mercé",
+    "address": "Ctra Circunvalación 64",
+    "type": "CEIP",
+    "latitude": "42.0853",
+    "longitude": "-8.4135",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Rubiós",
+    "address": "O Couto",
+    "type": "EEI",
+    "latitude": "42.1109",
+    "longitude": "-8.4224",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Taboexa",
+    "address": "As Barreiras",
+    "type": "EEI",
+    "latitude": "42.1357",
+    "longitude": "-8.4365",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EFAG A Cancela",
+    "address": "Rúa Tortoreos s/n",
+    "type": "EFAG",
+    "latitude": "42.0975",
+    "longitude": "-8.4239",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe Humberto Juanes",
+    "address": "Rúa Curros Enriquez, 2 (Vilamean)",
+    "type": "CEIP",
+    "latitude": "42.1409",
+    "longitude": "-8.8077",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI Plurilingüe Arquitecto Palacios",
+    "address": "Camiño dos Lagos 1",
+    "type": "CPI",
+    "latitude": "42.1461",
+    "longitude": "-8.8231",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Ángel de la Guarda",
+    "address": "Priegue (San Mamede)",
+    "type": "CPR",
+    "latitude": "42.1658",
+    "longitude": "-8.7968",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe Carlos Casares",
+    "address": "Rúa PP Franciscanos, 40 (As Tomadas)",
+    "type": "CEIP",
+    "latitude": "42.1178",
+    "longitude": "-8.7923",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Mestre Manuel García",
+    "address": "Camiño do Fial 23",
+    "type": "CEIP",
+    "latitude": "42.0063",
+    "longitude": "-8.8767",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI Curros Enríquez",
+    "address": "Lugar Pazos 25",
+    "type": "CPI",
+    "latitude": "42.2931",
+    "longitude": "-8.5329",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Parada-Campañó",
+    "address": "Parada",
+    "type": "CEIP",
+    "latitude": "42.4599",
+    "longitude": "-8.6543",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Xunqueira Nº 1",
+    "address": "Rúa Celso Emilio Ferreiro 2",
+    "type": "CEIP",
+    "latitude": "42.4379",
+    "longitude": "-8.6393",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe San Benito de Lérez",
+    "address": "Lugar O Cruceiro 57",
+    "type": "CEIP",
+    "latitude": "42.4524",
+    "longitude": "-8.6314",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Carballeira",
+    "address": "Lugar A Camboa 10",
+    "type": "CEIP",
+    "latitude": "42.4001",
+    "longitude": "-8.6839",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Sagrado Corazón de Jesús, Placeres",
+    "address": "Rúa da Praia (Os Placeres) 8",
+    "type": "CPR",
+    "latitude": "42.4074",
+    "longitude": "-8.6844",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Daría González García",
+    "address": "Avenida Montecelo 18",
+    "type": "CEIP",
+    "latitude": "42.4243",
+    "longitude": "-8.6156",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEIP de Vilaverde-Mourente",
+    "address": "Rúa Villaverde 9",
+    "type": "CEIP",
+    "latitude": "42.4310",
+    "longitude": "-8.6203",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Álvarez Limeses",
+    "address": "Rúa Joaquin Costa 13",
+    "type": "CEIP",
+    "latitude": "42.4290",
+    "longitude": "-8.6407",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Manuel Vidal Portela",
+    "address": "Avenida de Buenos Aires s/n",
+    "type": "CEIP",
+    "latitude": "42.4331",
+    "longitude": "-8.6380",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Froebel",
+    "address": "Rúa Martitegui 3",
+    "type": "CEIP",
+    "latitude": "42.4324",
+    "longitude": "-8.6501",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CIFP Montecelo",
+    "address": "Avenida Montecelo 16",
+    "type": "CIFP",
+    "latitude": "42.4265",
+    "longitude": "-8.6183",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Campolongo",
+    "address": "Rúa Xeneral Rubín 3",
+    "type": "CEP",
+    "latitude": "42.4278",
+    "longitude": "-8.6456",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Colegio Juan Sebastián Elcano",
+    "address": "Rúa Rosalía de Castro 66",
+    "type": "CPR",
+    "latitude": "42.4257",
+    "longitude": "-8.6514",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEEPR Juan XXIII",
+    "address": "Rúa Eduardo Blanco Amor 66",
+    "type": "CEEPR",
+    "latitude": "42.4209",
+    "longitude": "-8.6468",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "Cen. Pub. Casa Tut. Menores Avelino Montero",
+    "address": "Avenida de Vigo 20",
+    "type": "Cen. Pub.",
+    "latitude": "42.4258",
+    "longitude": "-8.6402",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Calasancio",
+    "address": "Rúa Blanco Porto 15",
+    "type": "CPR",
+    "latitude": "42.4284",
+    "longitude": "-8.6393",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR San José",
+    "address": "Rúa Princesa 1",
+    "type": "CPR",
+    "latitude": "42.4331",
+    "longitude": "-8.6458",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Sagrado Corazón de Jesús",
+    "address": "Rúa A Estrada 24",
+    "type": "CPR",
+    "latitude": "42.4272",
+    "longitude": "-8.6296",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Ntra. Sra. de los Dolores",
+    "address": "Rúa Alfonso XIII 2-12",
+    "type": "CPR",
+    "latitude": "42.4324",
+    "longitude": "-8.6516",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES Sánchez Cantón",
+    "address": "Avenida Raíña Vitoria Uxía",
+    "type": "IES",
+    "latitude": "42.4288",
+    "longitude": "-8.6486",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Valle-Inclán",
+    "address": "Gran Vía de Montero Ríos s/n",
+    "type": "IES",
+    "latitude": "42.4313",
+    "longitude": "-8.6474",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Frei Martín Sarmiento",
+    "address": "Avenida DE VIGO 23",
+    "type": "IES",
+    "latitude": "42.4258",
+    "longitude": "-8.6398",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Ponte Sampaio",
+    "address": "Rúa A Xunqueira 12",
+    "type": "CEIP",
+    "latitude": "42.3458",
+    "longitude": "-8.6025",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP San Martiño",
+    "address": "Lugar Igrexa-Salcedo 18",
+    "type": "CEIP",
+    "latitude": "42.4136",
+    "longitude": "-8.6489",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Hermanos Quiroga Rodríguez",
+    "address": "Rúa Antonio Palacios s/n",
+    "type": "CPR",
+    "latitude": "42.1609",
+    "longitude": "-8.6145",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Santo Tomás",
+    "address": "A Florida, Torneiros",
+    "type": "CPR",
+    "latitude": "42.1617",
+    "longitude": "-8.6373",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES Pino Manso",
+    "address": "Rúa Antonio Palacios 76",
+    "type": "IES",
+    "latitude": "42.1598",
+    "longitude": "-8.6138",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Xosé Fernández López",
+    "address": "Rúa Doantes de Sangue 1",
+    "type": "CEIP",
+    "latitude": "42.1590",
+    "longitude": "-8.6131",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI Domingo Fontán",
+    "address": "Rapeira 9",
+    "type": "CPI",
+    "latitude": "42.5797",
+    "longitude": "-8.6558",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Chancelas",
+    "address": "Rúa Xunqueira s/n",
+    "type": "CEIP",
+    "latitude": "42.4242",
+    "longitude": "-8.7125",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Isidora Riestra",
+    "address": "Rúa Camiño da Reiboa 10",
+    "type": "CEIP",
+    "latitude": "42.4401",
+    "longitude": "-8.6894",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Viñas",
+    "address": "Viñas 2",
+    "type": "CEIP",
+    "latitude": "42.4331",
+    "longitude": "-8.6646",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Feliciano Barrera",
+    "address": "O Casal",
+    "type": "CEIP",
+    "latitude": "42.1544",
+    "longitude": "-8.5432",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe As Veigas",
+    "address": "Rúa Azorin s/n",
+    "type": "CEIP",
+    "latitude": "42.1712",
+    "longitude": "-8.5052",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Santiago Apóstol",
+    "address": "Avenida Castelao 45",
+    "type": "CPR",
+    "latitude": "42.1741",
+    "longitude": "-8.5096",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe La Inmaculada",
+    "address": "Rúa AMADO GARRA 2",
+    "type": "CPR",
+    "latitude": "42.1732",
+    "longitude": "-8.5054",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Fermín Bouza Brey",
+    "address": "Avenida Bouza Brey 15",
+    "type": "CEIP",
+    "latitude": "42.1696",
+    "longitude": "-8.5062",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CIFP A Granxa",
+    "address": "Rúa Areas, s/n (Apdo. 7)",
+    "type": "CIFP",
+    "latitude": "42.1810",
+    "longitude": "-8.5199",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Manuel Cordo Boullosa",
+    "address": "Rúa Concepcion Areal",
+    "type": "CEIP",
+    "latitude": "42.3882",
+    "longitude": "-8.5031",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI de Pontecesures",
+    "address": "Rúa Avelino Pousa Antelo 2",
+    "type": "CPI",
+    "latitude": "42.7216",
+    "longitude": "-8.6497",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Porto Cabeiro",
+    "address": "Estrada Porto Cabeiro 5",
+    "type": "CEIP",
+    "latitude": "42.2463",
+    "longitude": "-8.6304",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Outeiro das Penas",
+    "address": "Estrada de Cesantes 22",
+    "type": "CEIP",
+    "latitude": "42.3080",
+    "longitude": "-8.6055",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Reboreda",
+    "address": "Camiño do Colexio de Reboreda 3",
+    "type": "CEIP",
+    "latitude": "42.2887",
+    "longitude": "-8.5967",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Plurilingüe Santa Mariña",
+    "address": "Rúa MARISMA 2",
+    "type": "CEP",
+    "latitude": "42.2885",
+    "longitude": "-8.6098",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Mendiño",
+    "address": "Avenida MENDIÑO 40",
+    "type": "IES",
+    "latitude": "42.2913",
+    "longitude": "-8.6115",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI Julia Becerra Malvar",
+    "address": "Rúa Joaquín García Álvarez 4 - 6",
+    "type": "CPI",
+    "latitude": "42.5028",
+    "longitude": "-8.7709",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Altamira",
+    "address": "Rúa Rosalía de Castro 11",
+    "type": "CEP",
+    "latitude": "42.1021",
+    "longitude": "-8.5620",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Infante Felipe de Borbón",
+    "address": "Rúa da Escola, s/n",
+    "type": "CEIP",
+    "latitude": "42.0846",
+    "longitude": "-8.5045",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Portonovo",
+    "address": "Rúa Areal, 5 (Portonovo)",
+    "type": "CEIP",
+    "latitude": "42.3958",
+    "longitude": "-8.8275",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Magaláns-Dorrón",
+    "address": "Dorrón (San Xoán)",
+    "type": "CEIP",
+    "latitude": "42.4035",
+    "longitude": "-8.7668",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe A Florida",
+    "address": "Ricardo Santos 16",
+    "type": "CEIP",
+    "latitude": "42.4030",
+    "longitude": "-8.8005",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Cruceiro",
+    "address": "Rúa Revel s/n",
+    "type": "CEIP",
+    "latitude": "42.4439",
+    "longitude": "-8.8357",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Santiago Apostol",
+    "address": "A Montesiña",
+    "type": "CPR",
+    "latitude": "42.3369",
+    "longitude": "-8.5859",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Pintor Antonio Fernández",
+    "address": "Praza Pintor Antonio Fernández s/n",
+    "type": "CEIP",
+    "latitude": "41.9472",
+    "longitude": "-8.7734",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Tebra",
+    "address": "A Igrexa",
+    "type": "CEIP",
+    "latitude": "42.0417",
+    "longitude": "-8.7339",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Plurilingüe Pedro Caselles Beltrán",
+    "address": "Estrada O Mosteiro",
+    "type": "CEP",
+    "latitude": "41.9876",
+    "longitude": "-8.7497",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Neuropsicopedagógico O Pelouro",
+    "address": "Rúa Os Baños 81",
+    "type": "CPR",
+    "latitude": "42.0560",
+    "longitude": "-8.5672",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEIP de Pazos de Reis",
+    "address": "A Porteliña 7",
+    "type": "CEIP",
+    "latitude": "42.0567",
+    "longitude": "-8.6521",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Nº 1",
+    "address": "Avenida Coengo Valiño",
+    "type": "CEIP",
+    "latitude": "42.0501",
+    "longitude": "-8.6390",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Seminario Menor Diocesano San Pelayo",
+    "address": "Rúa Calvo Sotelo 4",
+    "type": "CPR",
+    "latitude": "42.0483",
+    "longitude": "-8.6433",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe Nº 2",
+    "address": "Avenida da Concordia s/n",
+    "type": "CEIP",
+    "latitude": "42.0516",
+    "longitude": "-8.6425",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES San Paio",
+    "address": "Rúa Casal Aboy 11",
+    "type": "IES",
+    "latitude": "42.0514",
+    "longitude": "-8.6488",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Baño-Xanza",
+    "address": "Lugar Baño",
+    "type": "CEIP",
+    "latitude": "42.7047",
+    "longitude": "-8.6553",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Amor de Dios",
+    "address": "Avenida de Europa 21",
+    "type": "CPR",
+    "latitude": "42.2161",
+    "longitude": "-8.7585",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe Javier Sensat",
+    "address": "Rúa Javier Sensat, 8 (O Castañal)",
+    "type": "CEIP",
+    "latitude": "42.2209",
+    "longitude": "-8.7621",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Otero Pedrayo",
+    "address": "Rúa Ramiro Pascual, 9 (Carneiras)",
+    "type": "CEIP",
+    "latitude": "42.1952",
+    "longitude": "-8.7188",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Coutada-Beade",
+    "address": "Camiño do Alen, 6 (As Coutadas)",
+    "type": "CEIP",
+    "latitude": "42.1925",
+    "longitude": "-8.7018",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Mosteiro-Bembrive",
+    "address": "Estrada de Bembrive, 161 (Mosteiro) 161",
+    "type": "CEIP",
+    "latitude": "42.2062",
+    "longitude": "-8.6910",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Virxe do Rocío",
+    "address": "Rúa Rocio 70",
+    "type": "CEIP",
+    "latitude": "42.2200",
+    "longitude": "-8.7522",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Santa Mariña",
+    "address": "Rúa do Xalon, s/n (Becerreira)",
+    "type": "CEIP",
+    "latitude": "42.2208",
+    "longitude": "-8.6546",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Carballal-Cabral",
+    "address": "Rúa Lomba 1",
+    "type": "CEIP",
+    "latitude": "42.2349",
+    "longitude": "-8.6481",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Martín Códax",
+    "address": "Avenida Aeroporto 734",
+    "type": "CPR",
+    "latitude": "42.2291",
+    "longitude": "-8.6354",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe O Sello",
+    "address": "Rúa Sardomela, 5 (O Sello)",
+    "type": "CEIP",
+    "latitude": "42.2217",
+    "longitude": "-8.6688",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Fonte Escura",
+    "address": "Primeira Trav. de Barreiro 34",
+    "type": "CEIP",
+    "latitude": "42.2282",
+    "longitude": "-8.6754",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP da Igrexa-Candeán",
+    "address": "Rúa San Cristovo 131",
+    "type": "CEIP",
+    "latitude": "42.2417",
+    "longitude": "-8.6680",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Mestres Goldar",
+    "address": "Rúa A COSTA 4",
+    "type": "CEIP",
+    "latitude": "42.2138",
+    "longitude": "-8.7229",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Canicouva",
+    "address": "Rúa Canicouva 22",
+    "type": "CEIP",
+    "latitude": "42.2095",
+    "longitude": "-8.7299",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Párroco Don Camilo",
+    "address": "Estrada Matama-Pazo 104",
+    "type": "CEIP",
+    "latitude": "42.2011",
+    "longitude": "-8.7536",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Divino Salvador",
+    "address": "Estrada ó Bao 49",
+    "type": "CPR",
+    "latitude": "42.1942",
+    "longitude": "-8.7788",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP A Paz",
+    "address": "Estrada FRAGOSELO 42",
+    "type": "CEIP",
+    "latitude": "42.1882",
+    "longitude": "-8.7730",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Illas Cíes",
+    "address": "Avenida de Castelao 59",
+    "type": "CEIP",
+    "latitude": "42.2176",
+    "longitude": "-8.7443",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEEPR Fogar e Clin. San Rafael",
+    "address": "Rúa San Juan de Dios 1",
+    "type": "CEEPR",
+    "latitude": "42.2230",
+    "longitude": "-8.7466",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "EEI Cristo da Victoria",
+    "address": "Rúa Caldas de Reis 11",
+    "type": "EEI",
+    "latitude": "42.2163",
+    "longitude": "-8.7508",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Escuelas Nieto",
+    "address": "Avenida Ramon Nieto, 247 - Lavadores",
+    "type": "CPR",
+    "latitude": "42.2297",
+    "longitude": "-8.6866",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Valle-Inclán",
+    "address": "Rúa Lavadores 16",
+    "type": "CEIP",
+    "latitude": "42.2233",
+    "longitude": "-8.6997",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe El Castro",
+    "address": "Gran Via, 171-173",
+    "type": "CPR",
+    "latitude": "42.2216",
+    "longitude": "-8.7275",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Josefa Alonso de Alonso",
+    "address": "Rúa Manuel Cominges 14",
+    "type": "CEIP",
+    "latitude": "42.1997",
+    "longitude": "-8.7378",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Alfonso D. Rodríguez Castelao",
+    "address": "Rúa Pedra Seixa 35",
+    "type": "CEIP",
+    "latitude": "42.2093",
+    "longitude": "-8.7608",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Ría de Vigo",
+    "address": "Avenida Cesareo Vazquez, 139 (Canido)",
+    "type": "CEIP",
+    "latitude": "42.1876",
+    "longitude": "-8.8014",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Eduardo Pondal",
+    "address": "Rúa Rosal Florido, 24 (Sampaio)",
+    "type": "CEIP",
+    "latitude": "42.2345",
+    "longitude": "-8.6906",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Lope de Vega",
+    "address": "Rúa Emilia Pardo Bazán 119",
+    "type": "CEIP",
+    "latitude": "42.2023",
+    "longitude": "-8.7075",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Sárdoma-Moledo",
+    "address": "Estrada do Marco (Moledo) 30",
+    "type": "CEIP",
+    "latitude": "42.2073",
+    "longitude": "-8.7077",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Vicente Risco",
+    "address": "Rúa Santander 10",
+    "type": "CEIP",
+    "latitude": "42.2462",
+    "longitude": "-8.7008",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe San Salvador",
+    "address": "Avenida de Galicia 181",
+    "type": "CEIP",
+    "latitude": "42.2568",
+    "longitude": "-8.6852",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Paraixal",
+    "address": "O Paraixal",
+    "type": "CEIP",
+    "latitude": "42.2485",
+    "longitude": "-8.6855",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Plurilingüe Igrexa-Valadares",
+    "address": "Camiño Caseiro, s/n (A Igrexa)",
+    "type": "CEP",
+    "latitude": "42.1741",
+    "longitude": "-8.7248",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Emilia Pardo Bazán",
+    "address": "Camiño do Chouzo 7",
+    "type": "CEIP",
+    "latitude": "42.2233",
+    "longitude": "-8.7362",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Dr. Fleming",
+    "address": "Rúa Ourense 15",
+    "type": "CEP",
+    "latitude": "42.2262",
+    "longitude": "-8.7280",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Ramón y Cajal",
+    "address": "Rúa Marques de Valterra 8",
+    "type": "CEIP",
+    "latitude": "42.2340",
+    "longitude": "-8.7324",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEE Saladino Cortizo",
+    "address": "Rúa Carballal 60",
+    "type": "CEE",
+    "latitude": "42.2383",
+    "longitude": "-8.6382",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Fillas de María Inmaculada",
+    "address": "Avenida Vázquez Varela 57",
+    "type": "CPR",
+    "latitude": "42.2293",
+    "longitude": "-8.7157",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Niño Jesús de Praga",
+    "address": "Rúa Areal 92",
+    "type": "CPR",
+    "latitude": "42.2386",
+    "longitude": "-8.7134",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Monterrey",
+    "address": "Montecelo Alto, 41-43",
+    "type": "CPR",
+    "latitude": "42.2426",
+    "longitude": "-8.7017",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe San Fernando",
+    "address": "Baixada Salgueira 39",
+    "type": "CPR",
+    "latitude": "42.2256",
+    "longitude": "-8.7162",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Santa Cristina",
+    "address": "Rúa Portela 87",
+    "type": "CPR",
+    "latitude": "42.2276",
+    "longitude": "-8.6976",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Apostol Santiago",
+    "address": "Sanjurjo Badia 79",
+    "type": "CPR",
+    "latitude": "42.2450",
+    "longitude": "-8.7038",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Atlántida",
+    "address": "Rúa Rocio 7",
+    "type": "CPR",
+    "latitude": "42.2200",
+    "longitude": "-8.7522",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Alborada",
+    "address": "Avenida Aeroporto 392",
+    "type": "CPR",
+    "latitude": "42.2345",
+    "longitude": "-8.6703",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Barreiro",
+    "address": "Estrada de Valadares, 78 - O Seixo",
+    "type": "CPR",
+    "latitude": "42.1849",
+    "longitude": "-8.7224",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Compañía de María",
+    "address": "Rúa Ecuador 33-35",
+    "type": "CPR",
+    "latitude": "42.2338",
+    "longitude": "-8.7206",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Labor",
+    "address": "Avenida das Camelias 53",
+    "type": "CPR",
+    "latitude": "42.2298",
+    "longitude": "-8.7302",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Losada",
+    "address": "Rúa Baixada o Capitan 31",
+    "type": "CPR",
+    "latitude": "42.2279",
+    "longitude": "-8.6919",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe María Auxiliadora",
+    "address": "Rúa Venezuela 7",
+    "type": "CPR",
+    "latitude": "42.2342",
+    "longitude": "-8.7237",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe María Inmaculada",
+    "address": "Rúa Pi e Margall 58",
+    "type": "CPR",
+    "latitude": "42.2328",
+    "longitude": "-8.7309",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Miralba",
+    "address": "Gran Via 164",
+    "type": "CPR",
+    "latitude": "42.2216",
+    "longitude": "-8.7286",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Mariano",
+    "address": "Rúa URZAIZ 122",
+    "type": "CPR",
+    "latitude": "42.2313",
+    "longitude": "-8.7087",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Montecastelo",
+    "address": "Rúa Paz Pardo 90",
+    "type": "CPR",
+    "latitude": "42.2146",
+    "longitude": "-8.6937",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe San Miguel 2",
+    "address": "Rúa Tomas A. Alonso 13",
+    "type": "CPR",
+    "latitude": "42.2236",
+    "longitude": "-8.7370",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Padre Míguez",
+    "address": "Rúa Montecelo 1",
+    "type": "CPR",
+    "latitude": "42.2423",
+    "longitude": "-8.7062",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe El Pilar",
+    "address": "Rúa Venezuela 20",
+    "type": "CPR",
+    "latitude": "42.2333",
+    "longitude": "-8.7222",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Rosalía de Castro",
+    "address": "Estrada de Bembrive 91",
+    "type": "CPR",
+    "latitude": "42.2109",
+    "longitude": "-8.6944",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe San Blas - Vista Alegre",
+    "address": "Subida ao Cemiterio  de Puxeiros 28",
+    "type": "CPR",
+    "latitude": "42.2207",
+    "longitude": "-8.6703",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR San Fermín",
+    "address": "Travesa Vigo 96",
+    "type": "CPR",
+    "latitude": "42.2369",
+    "longitude": "-8.7031",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR San Miguel",
+    "address": "Rúa Tomás A. Alonso 13",
+    "type": "CPR",
+    "latitude": "42.2348",
+    "longitude": "-8.7216",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe San José de Cluny",
+    "address": "Rúa CARBALLO 46",
+    "type": "CPR",
+    "latitude": "42.2237",
+    "longitude": "-8.7131",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe San José de la Guía",
+    "address": "Rúa Dr. Corbal 25",
+    "type": "CPR",
+    "latitude": "42.2506",
+    "longitude": "-8.6968",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Ntra. Señora de la Esperanza",
+    "address": "Rúa Cambeses 18",
+    "type": "CPR",
+    "latitude": "42.2283",
+    "longitude": "-8.6841",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Possumus",
+    "address": "Rúa PURIFICACION SAAVEDRA 62",
+    "type": "CPR",
+    "latitude": "42.2500",
+    "longitude": "-8.6993",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Mercantil",
+    "address": "Rúa TOMÁS ALONSO 56/58",
+    "type": "CPR",
+    "latitude": "42.2248",
+    "longitude": "-8.7348",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Vivas",
+    "address": "Rúa Príncipe, 17 - Policarpo Sanz 20",
+    "type": "CPR",
+    "latitude": "42.2373",
+    "longitude": "-8.7238",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Alba",
+    "address": "Esperanto 8",
+    "type": "CPR",
+    "latitude": "42.2328",
+    "longitude": "-8.7102",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES Castelao",
+    "address": "Rúa Aragón, 22 (O Calvario)",
+    "type": "IES",
+    "latitude": "42.2322",
+    "longitude": "-8.7014",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES A Guía",
+    "address": "Avenida Dona Fermina 1",
+    "type": "IES",
+    "latitude": "42.2536",
+    "longitude": "-8.6986",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES San Tomé de Freixeiro",
+    "address": "Rúa Gran Vía 191",
+    "type": "IES",
+    "latitude": "42.2205",
+    "longitude": "-8.7303",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Santa Irene",
+    "address": "Praza de América 7",
+    "type": "IES",
+    "latitude": "42.2202",
+    "longitude": "-8.7322",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Colegio Hogar Afundación",
+    "address": "Rúa FILIPINAS 6",
+    "type": "CPR",
+    "latitude": "42.2271",
+    "longitude": "-8.7143",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Aloya",
+    "address": "Rúa Couto 2",
+    "type": "CPR",
+    "latitude": "42.2307",
+    "longitude": "-8.7226",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES Politécnico de Vigo",
+    "address": "Rúa TORRECEDEIRA 88",
+    "type": "IES",
+    "latitude": "42.2266",
+    "longitude": "-8.7351",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Don Bosco",
+    "address": "Rúa Estrada 5",
+    "type": "CPR",
+    "latitude": "42.2205",
+    "longitude": "-8.7418",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES Alexandre Bóveda",
+    "address": "Rúa Cuntis s/n",
+    "type": "IES",
+    "latitude": "42.2153",
+    "longitude": "-8.7505",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "INSTITUTO Marítimo Pesqueiro do Atlántico",
+    "address": "Rúa Beiramar 55",
+    "type": "INSTITUTO",
+    "latitude": "42.2332",
+    "longitude": "-8.7337",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Las Acacias",
+    "address": "Rúa PARROCHA 26",
+    "type": "CPR",
+    "latitude": "42.2146",
+    "longitude": "-8.6875",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Daniel Castelao",
+    "address": "Rúa Garcia Barbón 50 Baixo",
+    "type": "CPR",
+    "latitude": "42.2368",
+    "longitude": "-8.7142",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Quiñones de León",
+    "address": "Travesa de Vigo, 36",
+    "type": "CPR",
+    "latitude": "42.2340",
+    "longitude": "-8.7060",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP A Lomba",
+    "address": "Rúa A XUNQUEIRA",
+    "type": "CEIP",
+    "latitude": "42.5885",
+    "longitude": "-8.7678",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Arealonga",
+    "address": "Rúa A Xunqueira (A Lomba)",
+    "type": "CEIP",
+    "latitude": "42.5882",
+    "longitude": "-8.7691",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Sagrada Familia",
+    "address": "Rúa Vista Alegre 2",
+    "type": "CPR",
+    "latitude": "42.5928",
+    "longitude": "-8.7687",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe San Francisco",
+    "address": "Rúa Edelmiro Trillo 15",
+    "type": "CPR",
+    "latitude": "42.5946",
+    "longitude": "-8.7651",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES Castro Alobre",
+    "address": "Rúa San Roque 25",
+    "type": "IES",
+    "latitude": "42.5945",
+    "longitude": "-8.7611",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Rosalía de Castro",
+    "address": "Rúa do Colexio 16",
+    "type": "CEIP",
+    "latitude": "42.6152",
+    "longitude": "-8.7699",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Vilaxoán",
+    "address": "Rúa Cultura 4",
+    "type": "CEIP",
+    "latitude": "42.5827",
+    "longitude": "-8.7850",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Sestelo-Baión",
+    "address": "Lugar Sestelo",
+    "type": "CEIP",
+    "latitude": "42.5639",
+    "longitude": "-8.7169",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP da Torre-Illa",
+    "address": "Rúa POMBAL 1",
+    "type": "CEIP",
+    "latitude": "42.5617",
+    "longitude": "-8.8631",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de San Roque",
+    "address": "Rúa SAN ROQUE DE CORON 112",
+    "type": "CEIP",
+    "latitude": "42.5709",
+    "longitude": "-8.8045",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Viñagrande-Deiro",
+    "address": "Rúa VIÑAGRANDE 65A",
+    "type": "CEIP",
+    "latitude": "42.5415",
+    "longitude": "-8.8188",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de San Bartolomé",
+    "address": "Rúa r/ Gombra 9",
+    "type": "CEIP",
+    "latitude": "42.5379",
+    "longitude": "-8.7635",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "ESMU Municipal das Neves",
+    "address": "Rúa Entrecines 10",
+    "type": "ESMU",
+    "latitude": "42.0894",
+    "longitude": "-8.4194",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EEI de Lantaño",
+    "address": "Lantaño (San Pedro)",
+    "type": "EEI",
+    "latitude": "42.5717",
+    "longitude": "-8.6801",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Romai",
+    "address": "Romai Vello",
+    "type": "EEI",
+    "latitude": "42.5469",
+    "longitude": "-8.6820",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CIFP Manuel Antonio",
+    "address": "Avenida de Madrid, s/n - (Apartado 3138)",
+    "type": "CIFP",
+    "latitude": "42.2148",
+    "longitude": "-8.6807",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Lamas",
+    "address": "O Souto",
+    "type": "EEI",
+    "latitude": "42.5962",
+    "longitude": "-8.5800",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI San Lourenzo de Moraña",
+    "address": "A Espedregueira",
+    "type": "EEI",
+    "latitude": "42.5679",
+    "longitude": "-8.5766",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Amil",
+    "address": "O Outeiro",
+    "type": "EEI",
+    "latitude": "42.5412",
+    "longitude": "-8.5853",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Seara",
+    "address": "Seara, s/n (Reibon)",
+    "type": "CEIP",
+    "latitude": "42.2885",
+    "longitude": "-8.7304",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Pena de Francia",
+    "address": "A Igrexa",
+    "type": "CEIP",
+    "latitude": "42.2088",
+    "longitude": "-8.6447",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI Manuel Suárez Marquier",
+    "address": "A Cumieira de Arriba s/n",
+    "type": "CPI",
+    "latitude": "41.9306",
+    "longitude": "-8.8377",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI do Toural",
+    "address": "O Toural 34",
+    "type": "CPI",
+    "latitude": "42.3599",
+    "longitude": "-8.6338",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Figueiroa",
+    "address": "Avenida de Santiago, 101 (Figueroa)",
+    "type": "CEIP",
+    "latitude": "42.6954",
+    "longitude": "-8.4987",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Val do Tea",
+    "address": "Rúa Feliciano Barrera 15",
+    "type": "IES",
+    "latitude": "42.1739",
+    "longitude": "-8.4976",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI do Vao",
+    "address": "Camiño Bao de abaixo 21 1º",
+    "type": "EEI",
+    "latitude": "42.4416",
+    "longitude": "-8.6498",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES A Xunqueira I",
+    "address": "Rúa Alexandre Bóveda s/n",
+    "type": "IES",
+    "latitude": "42.4368",
+    "longitude": "-8.6383",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CIFP Fontecarmoa",
+    "address": "Rúa Fontecarmoa 92",
+    "type": "CIFP",
+    "latitude": "42.5836",
+    "longitude": "-8.7720",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR CEBEM",
+    "address": "Vía Hispanidade 33",
+    "type": "CPR",
+    "latitude": "42.2318",
+    "longitude": "-8.7287",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Sonrisas y Lágrimas",
+    "address": "Rúa Entrecortiñas 17",
+    "type": "CPR",
+    "latitude": "42.5606",
+    "longitude": "-8.8688",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "EEI Fina Casalderrey",
+    "address": "Rúa Reino Unido 18",
+    "type": "EEI",
+    "latitude": "42.4462",
+    "longitude": "-8.6250",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Andersen Augalonga",
+    "address": "Camiño Escola Andersen 28",
+    "type": "CPR",
+    "latitude": "42.1616",
+    "longitude": "-8.7228",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Atalaya - Cantabria",
+    "address": "Rúa Cantabria 18",
+    "type": "CPR",
+    "latitude": "42.2331",
+    "longitude": "-8.6966",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Radio ECCA",
+    "address": "Rúa Velazquez Moreno, 9- 1º",
+    "type": "CPR",
+    "latitude": "42.2381",
+    "longitude": "-8.7218",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EEI Rúa Aragón",
+    "address": "Rúa Aragon 114",
+    "type": "EEI",
+    "latitude": "42.2368",
+    "longitude": "-8.7004",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI O Areal",
+    "address": "Rúa Areas 53",
+    "type": "EEI",
+    "latitude": "42.1108",
+    "longitude": "-8.8292",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Val Miñor",
+    "address": "Rúa Paradellas 15",
+    "type": "IES",
+    "latitude": "42.1362",
+    "longitude": "-8.8008",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CIFP A Xunqueira",
+    "address": "Rúa Rafael Areses s/n",
+    "type": "CIFP",
+    "latitude": "42.4362",
+    "longitude": "-8.6366",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Plurilingüe Pedra da Auga",
+    "address": "Rúa Feliciano Barrera s/n",
+    "type": "IES",
+    "latitude": "42.1734",
+    "longitude": "-8.4971",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Indalecio Pérez Tizón",
+    "address": "Avenida da Concordia s/n",
+    "type": "IES",
+    "latitude": "42.0509",
+    "longitude": "-8.6422",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Plurilingüe Santa Tegra-Teis",
+    "address": "Rúa Maceiras 48",
+    "type": "CEP",
+    "latitude": "42.2517",
+    "longitude": "-8.7003",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CIFP Valentín Paz Andrade",
+    "address": "Estrada Vella de Madrid 160",
+    "type": "CIFP",
+    "latitude": "42.2183",
+    "longitude": "-8.6804",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Álvaro Cunqueiro",
+    "address": "Rúa O Porriño",
+    "type": "IES",
+    "latitude": "42.2160",
+    "longitude": "-8.7529",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Lama",
+    "address": "Avenida do Concello, (A Pedreira) 24",
+    "type": "CEIP",
+    "latitude": "42.3966",
+    "longitude": "-8.4431",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Serra-Vincios",
+    "address": "Lugar A Serra s/n",
+    "type": "CEIP",
+    "latitude": "42.1415",
+    "longitude": "-8.7351",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Outeiro",
+    "address": "Nespereira (San Martiño)",
+    "type": "EEI",
+    "latitude": "42.2542",
+    "longitude": "-8.5817",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI A Marisma",
+    "address": "Rúa A Marisma 3",
+    "type": "EEI",
+    "latitude": "42.2890",
+    "longitude": "-8.6103",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Leirado",
+    "address": "Lugar Chan",
+    "type": "CEIP",
+    "latitude": "42.1320",
+    "longitude": "-8.4613",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Romariz",
+    "address": "Soutomaior (San Salvador)",
+    "type": "EEI",
+    "latitude": "42.3417",
+    "longitude": "-8.5661",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Guillarei",
+    "address": "A Gandara",
+    "type": "CEIP",
+    "latitude": "42.0767",
+    "longitude": "-8.6241",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI Monte da Guía",
+    "address": "Rúa Irmáns Misioneros dos enfermos pobres 37",
+    "type": "EEI",
+    "latitude": "42.2531",
+    "longitude": "-8.6987",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI Vila Laura",
+    "address": "Rúa Hispanidad 86",
+    "type": "EEI",
+    "latitude": "42.2261",
+    "longitude": "-8.7269",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe da Igrexa-Chapela",
+    "address": "Camiño da Buraca 11",
+    "type": "CEIP",
+    "latitude": "42.2642",
+    "longitude": "-8.6690",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Manuel Villar Paramá",
+    "address": "Outeiro de Vea 6",
+    "type": "CEIP",
+    "latitude": "42.7352",
+    "longitude": "-8.5420",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Conmeniño",
+    "address": "Meloxo s/n",
+    "type": "CEIP",
+    "latitude": "42.4874",
+    "longitude": "-8.8744",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Alexandre Bóveda",
+    "address": "Rúa ALEXANDRE BÓVEDA 12",
+    "type": "CEIP",
+    "latitude": "42.2709",
+    "longitude": "-8.6649",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Fontes-Baíña",
+    "address": "As Fontes",
+    "type": "CEIP",
+    "latitude": "42.1063",
+    "longitude": "-8.8590",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Valeixe",
+    "address": "As Touzosas",
+    "type": "CEIP",
+    "latitude": "42.1679",
+    "longitude": "-8.2792",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI O Grupo",
+    "address": "Rúa CONCEPCIÓN ARENAL 40",
+    "type": "EEI",
+    "latitude": "42.3917",
+    "longitude": "-8.6975",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI Concepción Crespo Rivas",
+    "address": "Paseo de Valle Inclán s/n",
+    "type": "EEI",
+    "latitude": "42.4270",
+    "longitude": "-8.6453",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Cedeira",
+    "address": "Estrada do Cruceiro 75",
+    "type": "CEIP",
+    "latitude": "42.2767",
+    "longitude": "-8.6250",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Randufe",
+    "address": "As Chans do Carrasco s/n",
+    "type": "CEIP",
+    "latitude": "42.0554",
+    "longitude": "-8.6678",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Chans-Bembrive",
+    "address": "Camiño do Lecer, s/n (As Chans)",
+    "type": "CEIP",
+    "latitude": "42.1964",
+    "longitude": "-8.6765",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI Monte do Alba",
+    "address": "Camiño da Igrexa 133",
+    "type": "EEI",
+    "latitude": "42.1755",
+    "longitude": "-8.7239",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Balaídos",
+    "address": "Rúa Pablo Iglesias 1",
+    "type": "CEIP",
+    "latitude": "42.2111",
+    "longitude": "-8.7439",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP San Tomé",
+    "address": "Rúa Olmos 20",
+    "type": "CEIP",
+    "latitude": "42.5097",
+    "longitude": "-8.8127",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES da Cañiza",
+    "address": "Oroso s/n",
+    "type": "IES",
+    "latitude": "42.2159",
+    "longitude": "-8.2629",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPI Aurelio Marcelino Rey García",
+    "address": "Rúa José Mª Lastra 3",
+    "type": "CPI",
+    "latitude": "42.6336",
+    "longitude": "-8.5599",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Sangriña",
+    "address": "Paseo de Portugal 19",
+    "type": "CEIP",
+    "latitude": "41.9009",
+    "longitude": "-8.8627",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Chan do Monte",
+    "address": "Rúa Chan do Monte 23",
+    "type": "IES",
+    "latitude": "42.3894",
+    "longitude": "-8.7097",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI As Dunas Panxón",
+    "address": "Rúa Gondomar, 9 (Gaifar)",
+    "type": "EEI",
+    "latitude": "42.1435",
+    "longitude": "-8.8181",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Xunqueira Nº 2",
+    "address": "Rúa Alexandre Boveda s/n",
+    "type": "CEIP",
+    "latitude": "42.4363",
+    "longitude": "-8.6373",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Escolas Proval",
+    "address": "Avenida Portugal 171",
+    "type": "IES",
+    "latitude": "42.1146",
+    "longitude": "-8.7802",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Lourido",
+    "address": "Camiño da Fernanda, 36 (Lourido)",
+    "type": "CEIP",
+    "latitude": "42.4274",
+    "longitude": "-8.6773",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de San Pedro de Cesantes",
+    "address": "Cesantes (San Pedro)",
+    "type": "EEI",
+    "latitude": "42.3027",
+    "longitude": "-8.6121",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Sobrada",
+    "address": "Rúa Torrón 52",
+    "type": "CEIP",
+    "latitude": "42.0194",
+    "longitude": "-8.6754",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Celso Emilio Ferreiro",
+    "address": "Rúa O Porriño s/n",
+    "type": "CEP",
+    "latitude": "42.2165",
+    "longitude": "-8.7531",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Frián-Teis",
+    "address": "Rúa Gonderan, 42 (Frian)",
+    "type": "CEIP",
+    "latitude": "42.2415",
+    "longitude": "-8.6951",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Rubiáns",
+    "address": "Rúa do Ensino 10",
+    "type": "CEIP",
+    "latitude": "42.5751",
+    "longitude": "-8.7447",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEEPR San Francisco",
+    "address": "Avenida DE EUROPA 94",
+    "type": "CEEPR",
+    "latitude": "42.2117",
+    "longitude": "-8.7719",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEEPR ASPANAEX",
+    "address": "Rúa Mestres Goldar 18",
+    "type": "CEEPR",
+    "latitude": "42.2103",
+    "longitude": "-8.7261",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe da Carrasqueira",
+    "address": "A Carrasqueira",
+    "type": "CEIP",
+    "latitude": "42.1979",
+    "longitude": "-8.7806",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe O Pombal",
+    "address": "Rúa Pombal s/n",
+    "type": "CEIP",
+    "latitude": "42.2324",
+    "longitude": "-8.6982",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Tirán",
+    "address": "Lugar Fontes 220-A",
+    "type": "CEIP",
+    "latitude": "42.2763",
+    "longitude": "-8.7535",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Curro",
+    "address": "Fonte do Curro",
+    "type": "EEI",
+    "latitude": "42.5063",
+    "longitude": "-8.6730",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Verducido",
+    "address": "Verducido (San Martiño)",
+    "type": "EEI",
+    "latitude": "42.4812",
+    "longitude": "-8.6192",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe A Reigosa",
+    "address": "Lugar A Reigosa",
+    "type": "CEIP",
+    "latitude": "42.4080",
+    "longitude": "-8.5699",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Ventosela",
+    "address": "Camiño do Requeixo 6",
+    "type": "EEI",
+    "latitude": "42.3013",
+    "longitude": "-8.5848",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe García Barbón",
+    "address": "Rúa Serafín Avendaño 20",
+    "type": "CEIP",
+    "latitude": "42.2361",
+    "longitude": "-8.7132",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP O Piñeiriño",
+    "address": "Rúa Adolfo Pedrido Morla 1",
+    "type": "CEIP",
+    "latitude": "42.5859",
+    "longitude": "-8.7733",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI da Gándara",
+    "address": "A Gandara",
+    "type": "EEI",
+    "latitude": "41.9157",
+    "longitude": "-8.8467",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Xulio Camba",
+    "address": "Rúa Gonzalez Besada s/n",
+    "type": "CEIP",
+    "latitude": "42.5610",
+    "longitude": "-8.8263",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Sobreira-Valadares",
+    "address": "Estrada da Escola da Sobreira, 89 -A Sobreira",
+    "type": "CEIP",
+    "latitude": "42.1646",
+    "longitude": "-8.7088",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Marcote",
+    "address": "Avenida da Ponte, 80 - ( O Sello)",
+    "type": "CPR",
+    "latitude": "42.2149",
+    "longitude": "-8.6695",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Altamar",
+    "address": "Rúa Cesareo Gonzalez 4",
+    "type": "CEIP",
+    "latitude": "42.2184",
+    "longitude": "-8.7314",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Noalla-Telleiro",
+    "address": "Carreira A Lanzada s/n",
+    "type": "CEIP",
+    "latitude": "42.4375",
+    "longitude": "-8.8695",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe San Clemente de Cesar",
+    "address": "Lugar Baltar 25",
+    "type": "CEIP",
+    "latitude": "42.6349",
+    "longitude": "-8.6319",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Meaño-As Covas",
+    "address": "Rúa Herminia Fariña s/n",
+    "type": "CEIP",
+    "latitude": "42.4427",
+    "longitude": "-8.7802",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Espedregada",
+    "address": "Camiño da Serpe, 3 (Espedregada)",
+    "type": "CEIP",
+    "latitude": "42.4102",
+    "longitude": "-8.7524",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR San José",
+    "address": "Edificio BARRIO O TELLEIRO 12 Bajo",
+    "type": "CPR",
+    "latitude": "42.1077",
+    "longitude": "-8.8012",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe da Espiñeira-Aldán",
+    "address": "Rúa Espiñeira 4",
+    "type": "CEIP",
+    "latitude": "42.2855",
+    "longitude": "-8.8132",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Campelo Afundación",
+    "address": "Praza Capela 3",
+    "type": "CPR",
+    "latitude": "42.4313",
+    "longitude": "-8.6822",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEEPR Menela",
+    "address": "Camiño da Veiguiña, 17 - Alcabre",
+    "type": "CEEPR",
+    "latitude": "42.2199",
+    "longitude": "-8.7588",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Plurilingüe Abrente",
+    "address": "Estrada de Adigna, s/n (Portonovo)",
+    "type": "CPR",
+    "latitude": "42.4014",
+    "longitude": "-8.8305",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP Plurilingüe Seis do Nadal",
+    "address": "Rúa Mondariz 2",
+    "type": "CEIP",
+    "latitude": "42.2162",
+    "longitude": "-8.7469",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe A Doblada",
+    "address": "Rúa Gaivota 18",
+    "type": "CEIP",
+    "latitude": "42.2253",
+    "longitude": "-8.7076",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CMUS Superior de Vigo",
+    "address": "Rúa Manuel Olivie 23",
+    "type": "CMUS",
+    "latitude": "42.2294",
+    "longitude": "-8.7229",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Montesol",
+    "address": "Rúa Salceda de Caselas (Coia) 8",
+    "type": "CPR",
+    "latitude": "42.2138",
+    "longitude": "-8.7506",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP de Corvillón",
+    "address": "Rúa A Seca 1",
+    "type": "CEIP",
+    "latitude": "42.5297",
+    "longitude": "-8.8131",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Eduardo Pondal",
+    "address": "Rúa Seixo, Darbo 31",
+    "type": "CPR",
+    "latitude": "42.2665",
+    "longitude": "-8.8046",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "IES Plurilingüe Aquis Celenis",
+    "address": "Mariñoleiras s/n",
+    "type": "IES",
+    "latitude": "42.6028",
+    "longitude": "-8.6372",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Divino Maestro",
+    "address": "Rúa Camiño do Cancelo 32",
+    "type": "CPR",
+    "latitude": "42.2524",
+    "longitude": "-8.6996",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "EEI de Aralde Sobrán",
+    "address": "Sobrán (San Martiño De Fóra)",
+    "type": "EEI",
+    "latitude": "42.5640",
+    "longitude": "-8.8010",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Abelendo",
+    "address": "Rúa Abelendo",
+    "type": "CEIP",
+    "latitude": "42.2837",
+    "longitude": "-8.7437",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Quintela",
+    "address": "Rúa Quintela, 72 - A",
+    "type": "CEIP",
+    "latitude": "42.2825",
+    "longitude": "-8.7392",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Atín-Cela",
+    "address": "Camiño do Foxo Vello",
+    "type": "CEIP",
+    "latitude": "42.1668",
+    "longitude": "-8.6479",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP da Cruz",
+    "address": "Camos (Santa Baia)",
+    "type": "CEIP",
+    "latitude": "42.1532",
+    "longitude": "-8.7868",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Laredo",
+    "address": "Rúa do Peirao 3",
+    "type": "CEIP",
+    "latitude": "42.2673",
+    "longitude": "-8.6742",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Pedro Floriani",
+    "address": "Rúa Pedro Floriani 2",
+    "type": "IES",
+    "latitude": "42.2903",
+    "longitude": "-8.6094",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Caldelas",
+    "address": "Lugar O Foxo",
+    "type": "CEIP",
+    "latitude": "42.0633",
+    "longitude": "-8.5684",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Carlos Casares",
+    "address": "Avenida Ponte 102",
+    "type": "IES",
+    "latitude": "42.2117",
+    "longitude": "-8.6720",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Mendiño",
+    "address": "Pi y Margall 139",
+    "type": "CPR",
+    "latitude": "42.2288",
+    "longitude": "-8.7320",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP de Refoxos",
+    "address": "Refoxos s/n",
+    "type": "CEIP",
+    "latitude": "41.9956",
+    "longitude": "-8.8162",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEE de Vilagarcía de Arousa",
+    "address": "Xardins Doutor Fleming s/n",
+    "type": "CEE",
+    "latitude": "42.5956",
+    "longitude": "-8.7611",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Verducedo",
+    "address": "Verducedo 100",
+    "type": "EEI",
+    "latitude": "42.3049",
+    "longitude": "-8.7329",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI do Con",
+    "address": "Rúa Navas de Tolosa, s/n (O Con)",
+    "type": "EEI",
+    "latitude": "42.2770",
+    "longitude": "-8.7371",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP da Cruz-Budiño",
+    "address": "Cruz-Budiño 8",
+    "type": "CEIP",
+    "latitude": "42.1166",
+    "longitude": "-8.5967",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Santiago de Oliveira",
+    "address": "Lugar A FRAGA DO REI",
+    "type": "CEIP",
+    "latitude": "42.1773",
+    "longitude": "-8.4473",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Mestre Ramiro Sabell Mosquera",
+    "address": "Rúa Barrio Barral s/n",
+    "type": "CEIP",
+    "latitude": "42.1742",
+    "longitude": "-8.4934",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Carlos Casares",
+    "address": "Lugar Grixó -Alxén",
+    "type": "CEP",
+    "latitude": "42.1007",
+    "longitude": "-8.5229",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Plurilingüe de Riomaior",
+    "address": "Riomaior 17",
+    "type": "CEP",
+    "latitude": "42.3209",
+    "longitude": "-8.6554",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEEPR Aceesca",
+    "address": "Rúa Torneiros - Ribeira, Pol.III 24 A-B",
+    "type": "CEEPR",
+    "latitude": "42.1524",
+    "longitude": "-8.6292",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEE Pontevedra",
+    "address": "Lugar CIDADE INFANTIL PRINCIPE FELIPE (MONTECELO) 16",
+    "type": "CEE",
+    "latitude": "42.4264",
+    "longitude": "-8.6174",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES Ricardo Mella",
+    "address": "Estrada Vella de Madrid 177",
+    "type": "IES",
+    "latitude": "42.2179",
+    "longitude": "-8.6796",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Mosende",
+    "address": "Mosende (San Xurxo)",
+    "type": "EEI",
+    "latitude": "42.1252",
+    "longitude": "-8.6537",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Aios",
+    "address": "Aios",
+    "type": "EEI",
+    "latitude": "42.4144",
+    "longitude": "-8.8509",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Mestre Valverde Mayo",
+    "address": "Avenida Sanguiñeda 125",
+    "type": "CEIP",
+    "latitude": "42.1714",
+    "longitude": "-8.6258",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Praza de Barcelos",
+    "address": "Praza de Barcelos 26",
+    "type": "CEIP",
+    "latitude": "42.4313",
+    "longitude": "-8.6414",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe da Ribeira",
+    "address": "Poligono 3 (A Ribeira)",
+    "type": "CEIP",
+    "latitude": "42.1520",
+    "longitude": "-8.6303",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Escultor Acuña",
+    "address": "Rúa A Estrada 10",
+    "type": "CEIP",
+    "latitude": "42.2210",
+    "longitude": "-8.7408",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Souto-Donas",
+    "address": "Donas (Santa Baia)",
+    "type": "CEIP",
+    "latitude": "42.1010",
+    "longitude": "-8.7882",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Antonio Palacios",
+    "address": "A RELVA 27",
+    "type": "CEIP",
+    "latitude": "42.1542",
+    "longitude": "-8.6287",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Vigo",
+    "address": "Camiño Coto do Coello 7",
+    "type": "CPR",
+    "latitude": "42.2864",
+    "longitude": "-8.6431",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEIP As Bizocas",
+    "address": "Balea s/n",
+    "type": "CEIP",
+    "latitude": "42.4636",
+    "longitude": "-8.9124",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Plurilingüe Xesús Ferro Couselo",
+    "address": "Rúa Beiro s/n",
+    "type": "CEP",
+    "latitude": "42.6911",
+    "longitude": "-8.6831",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Teis",
+    "address": "Avenida de Galicia 101",
+    "type": "IES",
+    "latitude": "42.2514",
+    "longitude": "-8.6901",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Pintor Laxeiro",
+    "address": "Rúa Federico Garcia Lorca 18",
+    "type": "CEIP",
+    "latitude": "42.2186",
+    "longitude": "-8.7378",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CMUS Profesional Reveriano Soutullo",
+    "address": "Rúa Castiñeira 57",
+    "type": "CMUS",
+    "latitude": "42.1733",
+    "longitude": "-8.5072",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES A Xunqueira II",
+    "address": "Rúa Celso Emilio Ferreiro 6",
+    "type": "IES",
+    "latitude": "42.4391",
+    "longitude": "-8.6372",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES O Carril",
+    "address": "Rúa Marie Curie 1",
+    "type": "IES",
+    "latitude": "42.6122",
+    "longitude": "-8.7706",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Quintela",
+    "address": "Camiño DO COLEXIO 7",
+    "type": "CEIP",
+    "latitude": "42.2614",
+    "longitude": "-8.5984",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Atios",
+    "address": "O Covelo",
+    "type": "CEIP",
+    "latitude": "42.1502",
+    "longitude": "-8.6163",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Mallón",
+    "address": "Rúa Manuel Lemos, 81 (Mallon)",
+    "type": "CEIP",
+    "latitude": "42.1258",
+    "longitude": "-8.8107",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP da Armenteira",
+    "address": "Lugar Vilar 64-A",
+    "type": "CEIP",
+    "latitude": "42.4688",
+    "longitude": "-8.7419",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES República Oriental do Uruguai",
+    "address": "Rúa As Coutadas 54",
+    "type": "IES",
+    "latitude": "42.2433",
+    "longitude": "-8.7030",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Rebordáns",
+    "address": "Laranxeiras 50",
+    "type": "CEIP",
+    "latitude": "42.0736",
+    "longitude": "-8.6517",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Monte Carrasco",
+    "address": "Rúa Monte Carrasco 2",
+    "type": "IES",
+    "latitude": "42.2757",
+    "longitude": "-8.7939",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEMU Profesional Mayeusis",
+    "address": "Rúa Areal 118",
+    "type": "CEMU",
+    "latitude": "42.2388",
+    "longitude": "-8.7115",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEP Xosé Neira Vilas",
+    "address": "Lugar PEROLEIRA 34",
+    "type": "CEP",
+    "latitude": "42.0988",
+    "longitude": "-8.7374",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe As Solanas - Nicolás Gutiérrez Campo",
+    "address": "Rúa O Rosal s/n",
+    "type": "CEIP",
+    "latitude": "41.9050",
+    "longitude": "-8.8792",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Luís Seoane",
+    "address": "Rúa LUXEMBURGO, S/N (MONTE PORREIRO)",
+    "type": "IES",
+    "latitude": "42.4479",
+    "longitude": "-8.6216",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EOI de Pontevedra",
+    "address": "Rúa Celso Emilio Ferreiro - Campus A Xunqueira s/n",
+    "type": "EOI",
+    "latitude": "42.4384",
+    "longitude": "-8.6385",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Cabanas",
+    "address": "Lugar Cabanas 72",
+    "type": "CEIP",
+    "latitude": "42.4096",
+    "longitude": "-8.6446",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEEPR Juan María",
+    "address": "Rúa das Agullas 12",
+    "type": "CEEPR",
+    "latitude": "42.1241",
+    "longitude": "-8.7874",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "EEI Modia",
+    "address": "Vilariño (Santo Adrián)",
+    "type": "EEI",
+    "latitude": "42.5241",
+    "longitude": "-8.8036",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EPAPU Río Lérez",
+    "address": "Avenida de Buenos Aires 26",
+    "type": "EPAPU",
+    "latitude": "42.4333",
+    "longitude": "-8.6390",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EPAPU Berbés",
+    "address": "Rúa MARQUÉS DE VALTERRA 8 1",
+    "type": "EPAPU",
+    "latitude": "42.2337",
+    "longitude": "-8.7321",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI de Vilar-Bamio",
+    "address": "Bamio (San Xens)",
+    "type": "EEI",
+    "latitude": "42.6253",
+    "longitude": "-8.7636",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EOI de Vigo",
+    "address": "Avenida Emilio Martinez Garrido 17",
+    "type": "EOI",
+    "latitude": "42.2285",
+    "longitude": "-8.6996",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe de Belesar",
+    "address": "Rúa A ESTIVADA 46",
+    "type": "CEIP",
+    "latitude": "42.0822",
+    "longitude": "-8.8173",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Rúa",
+    "address": "A Rúa- Coiro",
+    "type": "CEIP",
+    "latitude": "42.2675",
+    "longitude": "-8.7646",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CRA Antía Cal",
+    "address": "Lugar Gandara 8",
+    "type": "CRA",
+    "latitude": "42.0978",
+    "longitude": "-8.7385",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES As Barxas",
+    "address": "Rúa Fonte do Unicornio 2",
+    "type": "IES",
+    "latitude": "42.2903",
+    "longitude": "-8.7356",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Barrantes",
+    "address": "O Mosteiro",
+    "type": "CEIP",
+    "latitude": "42.0122",
+    "longitude": "-8.7582",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Beade",
+    "address": "Camiño de Outeiro 10",
+    "type": "IES",
+    "latitude": "42.2017",
+    "longitude": "-8.7158",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Rosais 2",
+    "address": "Rúa As Coutadas s/n",
+    "type": "IES",
+    "latitude": "42.2440",
+    "longitude": "-8.7020",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Plurilingüe Nantes",
+    "address": "Rúa Pedrouzos 2",
+    "type": "CEIP",
+    "latitude": "42.4202",
+    "longitude": "-8.8096",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Estudios Marcote",
+    "address": "Avenida del Puente 80",
+    "type": "CPR",
+    "latitude": "42.2150",
+    "longitude": "-8.6694",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EEI Rúa Hernán Cortés",
+    "address": "Rúa Hernan Cortes 15",
+    "type": "EEI",
+    "latitude": "42.2333",
+    "longitude": "-8.7184",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Auga da Laxe",
+    "address": "Campo da Feira",
+    "type": "IES",
+    "latitude": "42.1138",
+    "longitude": "-8.7642",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Monte da Vila",
+    "address": "Rúa Bouzas 22",
+    "type": "IES",
+    "latitude": "42.4908",
+    "longitude": "-8.8611",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES A Sangriña",
+    "address": "Paseo de Portugal 21",
+    "type": "IES",
+    "latitude": "41.8999",
+    "longitude": "-8.8620",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Vilalonga",
+    "address": "Lugar A Salgueira 40",
+    "type": "IES",
+    "latitude": "42.4475",
+    "longitude": "-8.8354",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Gonzalo Torrente Ballester",
+    "address": "Rúa Herminia Fariña Cobián s/n",
+    "type": "IES",
+    "latitude": "42.4218",
+    "longitude": "-8.6412",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Sek-Atlántico",
+    "address": "Illa de Arousa, 4 - Boa Vista",
+    "type": "CPR",
+    "latitude": "42.4398",
+    "longitude": "-8.6569",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES Chano Piñeiro",
+    "address": "Rúa Tras grupo escolar s/n",
+    "type": "IES",
+    "latitude": "42.5856",
+    "longitude": "-8.3557",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Francisco Asorey",
+    "address": "Rúa Os Caeiros 25",
+    "type": "IES",
+    "latitude": "42.5079",
+    "longitude": "-8.8115",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Pazo da Mercé",
+    "address": "Rúa Ramal 3",
+    "type": "IES",
+    "latitude": "42.0947",
+    "longitude": "-8.4236",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES A Basella",
+    "address": "Rúa A Basella s/n",
+    "type": "IES",
+    "latitude": "42.5645",
+    "longitude": "-8.8301",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Coruxo",
+    "address": "A Carrasqueira 68",
+    "type": "IES",
+    "latitude": "42.1979",
+    "longitude": "-8.7796",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Guía",
+    "address": "Rúa Isamil 222-A",
+    "type": "CEIP",
+    "latitude": "42.2789",
+    "longitude": "-8.7117",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Petelos",
+    "address": "Petelos (San Mamede)",
+    "type": "CEIP",
+    "latitude": "42.1957",
+    "longitude": "-8.6328",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP A Escardia",
+    "address": "Rúa Lopez Ballesteros s/n",
+    "type": "CEIP",
+    "latitude": "42.5996",
+    "longitude": "-8.7630",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Johan Carballeira",
+    "address": "Rúa Staffan Mörling 4",
+    "type": "IES",
+    "latitude": "42.3189",
+    "longitude": "-8.7870",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Rodeira",
+    "address": "Avenida Ourense s/n",
+    "type": "IES",
+    "latitude": "42.2629",
+    "longitude": "-8.7713",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP Santo André de Xeve",
+    "address": "Rúa Sobral 26",
+    "type": "CEIP",
+    "latitude": "42.4614",
+    "longitude": "-8.5939",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Ribeira do Louro",
+    "address": "Rúa Ribeira, s/n (Torneiros)",
+    "type": "IES",
+    "latitude": "42.1526",
+    "longitude": "-8.6324",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEMU Profesional  Martín Millán",
+    "address": "Rúa Agustin Romero, 13-15 - baixo",
+    "type": "CEMU",
+    "latitude": "42.5906",
+    "longitude": "-8.7652",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES de Chapela",
+    "address": "Camiño do Penisal 29",
+    "type": "IES",
+    "latitude": "42.2663",
+    "longitude": "-8.6677",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEIP de Marcón",
+    "address": "Rúa Pazos 37",
+    "type": "CEIP",
+    "latitude": "42.4113",
+    "longitude": "-8.6202",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEP Marcos da Portela",
+    "address": "Rúa de Suecia, 1 (Monte Porreiro)",
+    "type": "CEP",
+    "latitude": "42.4449",
+    "longitude": "-8.6263",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "ES de Conservación e Restauración de Bens Culturais de Galicia",
+    "address": "Rúa Xeral Martitegui s/n",
+    "type": "ES",
+    "latitude": "42.4321",
+    "longitude": "-8.6491",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Los Sauces",
+    "address": "Estrada de Campañó - a Cabaleiro",
+    "type": "CPR",
+    "latitude": "42.4577",
+    "longitude": "-8.6576",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES Primeiro de Marzo",
+    "address": "Rúa Virxe da Rocha",
+    "type": "IES",
+    "latitude": "42.1183",
+    "longitude": "-8.8607",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Armando Cotarelo Valledor",
+    "address": "Rúa Armando Cotarelo Valledor, 4-6",
+    "type": "IES",
+    "latitude": "42.5897",
+    "longitude": "-8.7841",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES do Castro",
+    "address": "Rúa José Gómez Posada Curros 1",
+    "type": "IES",
+    "latitude": "42.2278",
+    "longitude": "-8.7262",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CMUS Profesional Manuel Quiroga",
+    "address": "Avenida JUAN CARLOS I 4",
+    "type": "CMUS",
+    "latitude": "42.4253",
+    "longitude": "-8.6294",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Cemar",
+    "address": "Estrada Ponteareas - Mondariz",
+    "type": "CPR",
+    "latitude": "42.2241",
+    "longitude": "-8.4786",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES Antón Alonso Ríos",
+    "address": "Solleiro s/n",
+    "type": "IES",
+    "latitude": "41.9892",
+    "longitude": "-8.7325",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EEI da Pastora",
+    "address": "Travesa Santa MAriña 5",
+    "type": "EEI",
+    "latitude": "42.5106",
+    "longitude": "-8.8084",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EDANPR Maite Quiñones",
+    "address": "Rúa Longan, 5 - 1º E",
+    "type": "EDANPR",
+    "latitude": "42.2655",
+    "longitude": "-8.7758",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEEPR Amencer",
+    "address": "Rúa Pontemuiños s/n - Poboado de Celulosas",
+    "type": "CEEPR",
+    "latitude": "42.4260",
+    "longitude": "-8.6453",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Coppelia",
+    "address": "Rúa Pi y Margall 61",
+    "type": "EMUSPR",
+    "latitude": "42.2335",
+    "longitude": "-8.7302",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEEPR San Jerónimo Emiliani",
+    "address": "Rúa GALICIA 23",
+    "type": "CEEPR",
+    "latitude": "41.9027",
+    "longitude": "-8.8709",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CEEPR Bata - Os Mecos",
+    "address": "Rúa Almirante Fontán (As Saíñas)",
+    "type": "CEEPR",
+    "latitude": "42.5622",
+    "longitude": "-8.7127",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Santa María",
+    "address": "Os Maristas s/n",
+    "type": "CPR",
+    "latitude": "42.0544",
+    "longitude": "-8.6470",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Caldas de Reis",
+    "address": "Rúa Herreria 1",
+    "type": "ESMU",
+    "latitude": "42.6026",
+    "longitude": "-8.6424",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal  Bernardo del Rio Parada",
+    "address": "Rúa Rosalia de Castro 24",
+    "type": "ESMU",
+    "latitude": "42.5997",
+    "longitude": "-8.7652",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal  Maestro Landín Pazos",
+    "address": "Rúa Rúa de la Cuesta - GRANXA DE BRIZ S/N",
+    "type": "ESMU",
+    "latitude": "42.3894",
+    "longitude": "-8.7054",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Los Sauces",
+    "address": "SAN PEDRO DE CELA",
+    "type": "CPR",
+    "latitude": "42.1698",
+    "longitude": "-8.6750",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR POVISA Formación Profesional",
+    "address": "Rúa Romil 75-77",
+    "type": "CPR",
+    "latitude": "42.2283",
+    "longitude": "-8.7293",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR de Beade",
+    "address": "Estrada Coutada 42",
+    "type": "EMUSPR",
+    "latitude": "42.1947",
+    "longitude": "-8.6991",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Cambados",
+    "address": "Rúa San Francisco 3",
+    "type": "ESMU",
+    "latitude": "42.5154",
+    "longitude": "-8.8132",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Valga",
+    "address": "Avenida da Coruña 14",
+    "type": "ESMU",
+    "latitude": "42.6989",
+    "longitude": "-8.6856",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Redondela",
+    "address": "Rúa Reveriano Soutullo s/n",
+    "type": "ESMU",
+    "latitude": "42.2820",
+    "longitude": "-8.6090",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Tui",
+    "address": "Avenida da Concordia, s/n (CEIP nº 2)",
+    "type": "ESMU",
+    "latitude": "42.0517",
+    "longitude": "-8.6428",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal Mestre Inocentes Camaño",
+    "address": "Avenida de Bueu 14",
+    "type": "ESMU",
+    "latitude": "42.2677",
+    "longitude": "-8.7833",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal da Estrada",
+    "address": "Avenida Benito Vigo, 94 - 3",
+    "type": "ESMU",
+    "latitude": "42.6882",
+    "longitude": "-8.4854",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal do Porriño",
+    "address": "Rúa Fernandez Areal s/n",
+    "type": "ESMU",
+    "latitude": "42.1590",
+    "longitude": "-8.6193",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CIFP Carlos Oroza",
+    "address": "Avenida Montecelo 16",
+    "type": "CIFP",
+    "latitude": "42.4272",
+    "longitude": "-8.6173",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EDANPR Esperanza Arrondo",
+    "address": "Rúa Romil 78",
+    "type": "EDANPR",
+    "latitude": "42.2328",
+    "longitude": "-8.7239",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EDANPR Danza Pasiños",
+    "address": "Rúa Loriga, 8 - baixo",
+    "type": "EDANPR",
+    "latitude": "42.2345",
+    "longitude": "-8.7216",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EDANPR Deborah",
+    "address": "Rúa Xan Guillermo 25",
+    "type": "EDANPR",
+    "latitude": "42.4340",
+    "longitude": "-8.6492",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Seforma",
+    "address": "Rúa Areal, 68-70",
+    "type": "CPR",
+    "latitude": "42.2387",
+    "longitude": "-8.7150",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Vigo",
+    "address": "Camiño do Regueiro 1",
+    "type": "ESMU",
+    "latitude": "42.2260",
+    "longitude": "-8.7272",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES de Mos",
+    "address": "Rúa das Pozas 23",
+    "type": "IES",
+    "latitude": "42.1969",
+    "longitude": "-8.6328",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Poio",
+    "address": "Rúa Fontenla s/n",
+    "type": "IES",
+    "latitude": "42.4440",
+    "longitude": "-8.6895",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Estudio",
+    "address": "Rúa das Laxes 31",
+    "type": "CPR",
+    "latitude": "42.1618",
+    "longitude": "-8.7652",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Catoira",
+    "address": "Rúa do Concello 14",
+    "type": "ESMU",
+    "latitude": "42.6681",
+    "longitude": "-8.7259",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CFEA de Lourizán",
+    "address": "Rúa A Igrexa 19",
+    "type": "CFEA",
+    "latitude": "42.4109",
+    "longitude": "-8.6655",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IGAFA Instituto Galego de Formación en Acuicultura",
+    "address": "Lugar Niño do Corvo s/n",
+    "type": "IGAFA",
+    "latitude": "42.5626",
+    "longitude": "-8.8857",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Sanitex",
+    "address": "Rúa Ramon y Cajal 16",
+    "type": "CPR",
+    "latitude": "42.2278",
+    "longitude": "-8.7207",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Asociación Amigos da Música",
+    "address": "Rúa DR. ZUNZUNEGUI 39",
+    "type": "EMUSPR",
+    "latitude": "42.1037",
+    "longitude": "-8.5571",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES de Barro",
+    "address": "Lugar Outeiro 9 D",
+    "type": "IES",
+    "latitude": "42.5227",
+    "longitude": "-8.6342",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Illa de Ons",
+    "address": "Rúa A Pedra 51",
+    "type": "IES",
+    "latitude": "42.3187",
+    "longitude": "-8.7864",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Avelina Valladares",
+    "address": "Rúa da Cultura s/n",
+    "type": "IES",
+    "latitude": "42.6926",
+    "longitude": "-8.5065",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Plurilingüe Terra de Turonio",
+    "address": "Campo da Feira s/n",
+    "type": "IES",
+    "latitude": "42.1144",
+    "longitude": "-8.7646",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES As Bizocas",
+    "address": "Rúa Balea s/n",
+    "type": "IES",
+    "latitude": "42.4643",
+    "longitude": "-8.9122",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES da Illa de Arousa",
+    "address": "Rúa DE BOUZAS s/n",
+    "type": "IES",
+    "latitude": "42.5565",
+    "longitude": "-8.8662",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Mestre Landín",
+    "address": "Lugar A RAÑA - SAN XULIAN",
+    "type": "IES",
+    "latitude": "42.3840",
+    "longitude": "-8.6950",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Meaño",
+    "address": "Rúa dos colexios 14",
+    "type": "IES",
+    "latitude": "42.4563",
+    "longitude": "-8.8137",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Ponte Caldelas",
+    "address": "Valdarrosa 13",
+    "type": "IES",
+    "latitude": "42.3869",
+    "longitude": "-8.5047",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Illa de San Simón",
+    "address": "Avenida de Mendiño 28",
+    "type": "IES",
+    "latitude": "42.2886",
+    "longitude": "-8.6110",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Salvaterra de Miño",
+    "address": "Lugar Chan da Ponte 12",
+    "type": "IES",
+    "latitude": "42.0863",
+    "longitude": "-8.5058",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Sanxenxo",
+    "address": "Rúa Baltar s/n",
+    "type": "IES",
+    "latitude": "42.4021",
+    "longitude": "-8.8218",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Plurilingüe de Valga",
+    "address": "Baño s/n",
+    "type": "IES",
+    "latitude": "42.7069",
+    "longitude": "-8.6561",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Valadares",
+    "address": "Rúa Clara Campoamor s/n",
+    "type": "IES",
+    "latitude": "42.1671",
+    "longitude": "-8.7078",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CE.ART Aula D",
+    "address": "Rúa Baixada ao Forte 2",
+    "type": "CE.ART",
+    "latitude": "42.2373",
+    "longitude": "-8.7280",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR de Xinzo",
+    "address": "Edificio Centro Cultural de Xinzo s/n",
+    "type": "EMUSPR",
+    "latitude": "42.1814",
+    "longitude": "-8.5590",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR A Tempo",
+    "address": "Praza da Castaña. 2 - baixo",
+    "type": "EMUSPR",
+    "latitude": "42.4330",
+    "longitude": "-8.6406",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CRA Mestre Manuel Garcés",
+    "address": "Rúa Gondomar 48 1º",
+    "type": "CRA",
+    "latitude": "41.9907",
+    "longitude": "-8.7444",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR Plurilingüe Bouza Brey",
+    "address": "Rúa Baixada a San Xoán, 167 00",
+    "type": "CPR",
+    "latitude": "42.2383",
+    "longitude": "-8.6953",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CRA A Picaraña",
+    "address": "Lugar Ganade 78",
+    "type": "CRA",
+    "latitude": "42.1513",
+    "longitude": "-8.5057",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CRA A Lagoa",
+    "address": "Rúa Rosalia de Castro 108",
+    "type": "CRA",
+    "latitude": "42.0837",
+    "longitude": "-8.5039",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR ICA",
+    "address": "Rúa Portela 12",
+    "type": "CPR",
+    "latitude": "42.2304",
+    "longitude": "-8.7006",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Baiona",
+    "address": "Rúa  Alférez Barreiro, 20-21 00",
+    "type": "ESMU",
+    "latitude": "42.1180",
+    "longitude": "-8.8463",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CRA Mestra Clara Torres",
+    "address": "Estrada Bornetas s/n",
+    "type": "CRA",
+    "latitude": "42.0519",
+    "longitude": "-8.6424",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EDANPR Susana Castro",
+    "address": "Rúa  Cronista Rodríguez Elías, 2 00",
+    "type": "EDANPR",
+    "latitude": "42.2117",
+    "longitude": "-8.7472",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR de Campo Lameiro",
+    "address": "Chanciña de Arriba, s/n",
+    "type": "EMUSPR",
+    "latitude": "42.5430",
+    "longitude": "-8.5425",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CRA de Valga",
+    "address": "Lugar A Torre, Campaña",
+    "type": "CRA",
+    "latitude": "42.7060",
+    "longitude": "-8.6656",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CRA María Zambrano",
+    "address": "Rúa Escolas Pías s/n Baixo",
+    "type": "CRA",
+    "latitude": "41.9191",
+    "longitude": "-8.8336",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES de Cotobade",
+    "address": "O Río Tenorio s/n",
+    "type": "IES",
+    "latitude": "42.4625",
+    "longitude": "-8.5637",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Faro das Lúas",
+    "address": "Rúa CUXHAVEN 7",
+    "type": "IES",
+    "latitude": "42.5649",
+    "longitude": "-8.8255",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEMU Profesional Mayeusis",
+    "address": "Rúa  Joaquín Costa, 58-60 00",
+    "type": "CEMU",
+    "latitude": "42.4279",
+    "longitude": "-8.6381",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEMU Profesional  Coppelia",
+    "address": "Rúa  Pi y Margall, 61 00",
+    "type": "CEMU",
+    "latitude": "42.2334",
+    "longitude": "-8.7302",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEDA Elemental Coppelia",
+    "address": "Rúa  Pi y Margall, 61 00",
+    "type": "CEDA",
+    "latitude": "42.2335",
+    "longitude": "-8.7302",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CMUS Profesional da Estrada",
+    "address": "Avenida BENITO VIGO, 94 - 3",
+    "type": "CMUS",
+    "latitude": "42.6882",
+    "longitude": "-8.4854",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CMUS Profesional de Cangas",
+    "address": "Rúa  Real, 29",
+    "type": "CMUS",
+    "latitude": "42.2677",
+    "longitude": "-8.7833",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CMUS Elemental da Guarda",
+    "address": "Travesal dos Bechos s/n",
+    "type": "CMUS",
+    "latitude": "41.9015",
+    "longitude": "-8.8619",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CMUS Profesional de Redondela",
+    "address": "Avenida Santa Mariña 3",
+    "type": "CMUS",
+    "latitude": "42.2868",
+    "longitude": "-8.6098",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CMUS Profesional de Tui",
+    "address": "Avenida  da Concordia s/n",
+    "type": "CMUS",
+    "latitude": "42.0519",
+    "longitude": "-8.6428",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CRA Raíña Aragonta",
+    "address": "Rúa Rosalía de Castro 9",
+    "type": "CRA",
+    "latitude": "42.1022",
+    "longitude": "-8.5633",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EMUSPR Popular de Rubiós",
+    "address": "Chan da Bouza, s/n",
+    "type": "EMUSPR",
+    "latitude": "42.1109",
+    "longitude": "-8.4228",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CMUS Profesional de Vilagarcía de Arousa",
+    "address": "Avenida DA MARIÑA 27",
+    "type": "CMUS",
+    "latitude": "42.5981",
+    "longitude": "-8.7672",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CMUS Elemental de Gondomar",
+    "address": "Praza Doutor Latino Salgueiro",
+    "type": "CMUS",
+    "latitude": "42.1077",
+    "longitude": "-8.7608",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Unión Musical de Coruxo",
+    "address": "Estrada DO BAO 65",
+    "type": "EMUSPR",
+    "latitude": "42.1937",
+    "longitude": "-8.7816",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EDANPR Coppelia",
+    "address": "Rúa PI Y MARGALL 61 baixo",
+    "type": "EDANPR",
+    "latitude": "42.2335",
+    "longitude": "-8.7302",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Aula Estudio",
+    "address": "Rúa Santa Marta interior s/n",
+    "type": "CPR",
+    "latitude": "42.2346",
+    "longitude": "-8.7306",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEDA Profesional Mayeusis",
+    "address": "Rúa Joaquín Costa 58-60",
+    "type": "CEDA",
+    "latitude": "42.4280",
+    "longitude": "-8.6381",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Educatic",
+    "address": "Rúa Zamora 106",
+    "type": "CPR",
+    "latitude": "42.2224",
+    "longitude": "-8.7275",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR San Nicolás",
+    "address": "Rúa Numancia",
+    "type": "CPR",
+    "latitude": "42.2341",
+    "longitude": "-8.7045",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CIFP Audiovisual de Vigo",
+    "address": "Rúa Eduardo Cabello s/n",
+    "type": "CIFP",
+    "latitude": "42.2264",
+    "longitude": "-8.7521",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CMUS Profesional de Vigo",
+    "address": "Rúa Fotógrafo Felipe Prósperi s/n",
+    "type": "CMUS",
+    "latitude": "42.2164",
+    "longitude": "-8.7402",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CRA de Vilaboa Consuelo González Martínez",
+    "address": "Rúa Toural 13",
+    "type": "CRA",
+    "latitude": "42.3598",
+    "longitude": "-8.6365",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EMUSPR de Mos",
+    "address": "Rúa OUTEIRO s/n",
+    "type": "EMUSPR",
+    "latitude": "42.2041",
+    "longitude": "-8.6188",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal Lied em.",
+    "address": "Rúa MIRAFLORES , PAZO EMILIA PARDO BAZAN 26 A",
+    "type": "ESMU",
+    "latitude": "42.4037",
+    "longitude": "-8.7990",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CIFP de Coia",
+    "address": "Rúa Baiona 28",
+    "type": "CIFP",
+    "latitude": "42.2149",
+    "longitude": "-8.7522",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CE.ART Atlántico",
+    "address": "Avenida da  Ponte 9",
+    "type": "CE.ART",
+    "latitude": "42.2220",
+    "longitude": "-8.6696",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR artística de Arcade",
+    "address": "Lugar Barroncas",
+    "type": "EMUSPR",
+    "latitude": "42.3401",
+    "longitude": "-8.6069",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CMUS Elemental de Cambados",
+    "address": "Rúa San Francisco 3",
+    "type": "CMUS",
+    "latitude": "42.5154",
+    "longitude": "-8.8132",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Fornelos de Montes",
+    "address": "Rúa das Escolas 7",
+    "type": "ESMU",
+    "latitude": "42.3413",
+    "longitude": "-8.4525",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEEPR Princesa Letizia",
+    "address": "Rúa DUQUE DE TERRANOVA 7",
+    "type": "CEEPR",
+    "latitude": "42.5903",
+    "longitude": "-8.7726",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "ESAD Escola Superior de Arte Dramática de Galicia",
+    "address": "Rúa POZA CABALO 1",
+    "type": "ESAD",
+    "latitude": "42.2088",
+    "longitude": "-8.7594",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EOI de Vilagarcía",
+    "address": "Rúa Entrante 7",
+    "type": "EOI",
+    "latitude": "42.5895",
+    "longitude": "-8.7658",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CRA de Meis",
+    "address": "Lugar Rialdonio 19",
+    "type": "CRA",
+    "latitude": "42.5261",
+    "longitude": "-8.6925",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CRA de Ribadumia",
+    "address": "A Costa",
+    "type": "CRA",
+    "latitude": "42.5289",
+    "longitude": "-8.7409",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "IES Pedras Rubias",
+    "address": "Rúa A Revolta s/n",
+    "type": "IES",
+    "latitude": "42.0882",
+    "longitude": "-8.5824",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CADFS Constantino Castro Ruso",
+    "address": "Travesa 3ª travesía Salgueira nº 46",
+    "type": "CADFS",
+    "latitude": "42.2236",
+    "longitude": "-8.7155",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Mondariz",
+    "address": "Rúa Pé do Muíño",
+    "type": "ESMU",
+    "latitude": "42.2340",
+    "longitude": "-8.4719",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Moaña",
+    "address": "Rúa Cruceiro 88",
+    "type": "ESMU",
+    "latitude": "42.2860",
+    "longitude": "-8.7497",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Aceimar",
+    "address": "Avenida DA PONTE 80",
+    "type": "EMUSPR",
+    "latitude": "42.2150",
+    "longitude": "-8.6694",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Moraña",
+    "address": "Rúa Número 3 13",
+    "type": "ESMU",
+    "latitude": "42.5883",
+    "longitude": "-8.5919",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Arturo",
+    "address": "Rúa Pi y Margall 40 baixo",
+    "type": "CPR",
+    "latitude": "42.2337",
+    "longitude": "-8.7304",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal Vila do Corpus de Ponteareas",
+    "address": "Rúa Castiñeira 1",
+    "type": "ESMU",
+    "latitude": "42.1731",
+    "longitude": "-8.5071",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR de Vilanova",
+    "address": "Rúa O Esteiro",
+    "type": "EMUSPR",
+    "latitude": "42.5628",
+    "longitude": "-8.8203",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EPAPU Nelson Mandela",
+    "address": "Monte Racelo s/n",
+    "type": "EPAPU",
+    "latitude": "42.4063",
+    "longitude": "-8.4533",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EMUSPR de Salcedo",
+    "address": "Rúa Cruceiro s/n",
+    "type": "EMUSPR",
+    "latitude": "42.4079",
+    "longitude": "-8.6486",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR de Valadares",
+    "address": "Estrada xeral  de Valadares 233",
+    "type": "EMUSPR",
+    "latitude": "42.1769",
+    "longitude": "-8.7213",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEE de Panxón",
+    "address": "Camiño dos Lagos, 1 1",
+    "type": "CEE",
+    "latitude": "42.1465",
+    "longitude": "-8.8229",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CE.ART Tex-Moda",
+    "address": "Parque Tecnolóxico Loxístico. Valadares, Área Texvigo r/C, Ed.Dotacional Bajo",
+    "type": "CE.ART",
+    "latitude": "42.1754",
+    "longitude": "-8.7101",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES do Barral",
+    "address": "Lugar Barral s/n",
+    "type": "IES",
+    "latitude": "42.1750",
+    "longitude": "-8.4912",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CPR A CAMELIA",
+    "address": "Rúa Bravo 36",
+    "type": "CPR",
+    "latitude": "42.2099",
+    "longitude": "-8.7666",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "ESMU Municipal de Meaño",
+    "address": "Rúa Campo de Feria",
+    "type": "ESMU",
+    "latitude": "42.4439",
+    "longitude": "-8.7822",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CAD Cemar",
+    "address": "Estrada Ponteareas Mondariz, km 7",
+    "type": "CAD",
+    "latitude": "42.2239",
+    "longitude": "-8.4783",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CE.ART Marcote",
+    "address": "Avenida da Ponte 80",
+    "type": "CE.ART",
+    "latitude": "42.2150",
+    "longitude": "-8.6694",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPREX O Castro International School",
+    "address": "Camiño de San Cosme s/n",
+    "type": "CPREX",
+    "latitude": "42.1606",
+    "longitude": "-8.6703",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CAD Cenafe",
+    "address": "Rúa As Lagoas, Marcosende",
+    "type": "CAD",
+    "latitude": "42.1692",
+    "longitude": "-8.6841",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CAD CIP",
+    "address": "Rúa Brasil 48",
+    "type": "CAD",
+    "latitude": "42.2324",
+    "longitude": "-8.7130",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEMU Superior Mayeusis",
+    "address": "Rúa Areal 118",
+    "type": "CEMU",
+    "latitude": "42.2388",
+    "longitude": "-8.7110",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CAD Montecastelo",
+    "address": "Rúa Doctor Paz Pardo 84",
+    "type": "CAD",
+    "latitude": "42.2133",
+    "longitude": "-8.6936",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Agrupación Musical de Vincios",
+    "address": "Rúa Mestra Doña Lola s/n",
+    "type": "EMUSPR",
+    "latitude": "42.1424",
+    "longitude": "-8.7316",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEMU Profesional Torroso",
+    "address": "Estrada Puxeiros-Mos 183",
+    "type": "CEMU",
+    "latitude": "42.2038",
+    "longitude": "-8.6187",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CAD ACADEF",
+    "address": "Camiño Escola Andersen 28",
+    "type": "CAD",
+    "latitude": "42.1614",
+    "longitude": "-8.7229",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Mega Formación",
+    "address": "Rúa Santa Marta 5",
+    "type": "CPR",
+    "latitude": "42.2357",
+    "longitude": "-8.7303",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CRA de Caldas de Reis",
+    "address": "Lugar Sequeiros s/n",
+    "type": "CRA",
+    "latitude": "42.5974",
+    "longitude": "-8.6896",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EMUSPR de Chapela",
+    "address": "Avenida de Redondela 17 Baixo",
+    "type": "EMUSPR",
+    "latitude": "42.2667",
+    "longitude": "-8.6667",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "Cen. Pub. Escola Galega do Deporte",
+    "address": "Rúa Padre Fernando Olmedo",
+    "type": "Cen. Pub.",
+    "latitude": "42.4320",
+    "longitude": "-8.6381",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPREX Eleven School",
+    "address": "Rúa Camiño Real (Parada) 10",
+    "type": "CPREX",
+    "latitude": "42.2012",
+    "longitude": "-8.7380",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CAD Jesús Morlán Fariña",
+    "address": "Rúa Gavián s/n",
+    "type": "CAD",
+    "latitude": "42.4961",
+    "longitude": "-8.6165",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "IES de Soutomaior",
+    "address": "Estrada de Soutomaior 46 C",
+    "type": "IES",
+    "latitude": "42.3399",
+    "longitude": "-8.5946",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "EMUSPR de Vilaboa",
+    "address": "Lugar Pazos 1",
+    "type": "EMUSPR",
+    "latitude": "42.3246",
+    "longitude": "-8.6564",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPREX Gándara International School",
+    "address": "Rúa Moureira 1",
+    "type": "CPREX",
+    "latitude": "42.1082",
+    "longitude": "-8.7726",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEIP Manuel Padín Truiteiro",
+    "address": "Rúa Arcade de Arriba s/nº",
+    "type": "CEIP",
+    "latitude": "42.3382",
+    "longitude": "-8.5999",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CEMU Superior Galival Music",
+    "address": "Lugar Auditorio Municipal (Lugar de Ferreirós) 1 A",
+    "type": "CEMU",
+    "latitude": "42.6988",
+    "longitude": "-8.6855",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Premir",
+    "address": "Rúa Gagos de Mendoza 8",
+    "type": "CPR",
+    "latitude": "42.4279",
+    "longitude": "-8.6471",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR de Barro",
+    "address": "Lugar  Perdecanai (Santa María)",
+    "type": "EMUSPR",
+    "latitude": "42.5337",
+    "longitude": "-8.6330",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEEPR Amencer-Aspace",
+    "address": "Camiño Arieiro (polígono 102, parcela 700) 144",
+    "type": "CEEPR",
+    "latitude": "42.2112",
+    "longitude": "-8.6742",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Escola de Música Ateneo Musical de Bembrive",
+    "address": "Alameda  do Torreiro s/n - Bembrive s/n",
+    "type": "EMUSPR",
+    "latitude": "42.2023",
+    "longitude": "-8.6857",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEMU Profesional Unión Musical de Valadares",
+    "address": "Estrada Xeral de Valadares 233",
+    "type": "CEMU",
+    "latitude": "42.1769",
+    "longitude": "-8.7216",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Staccato",
+    "address": "Rúa da Paz 10 baixo",
+    "type": "EMUSPR",
+    "latitude": "42.2645",
+    "longitude": "-8.7860",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Escola de Música Goián",
+    "address": "Avenida Pío Troncoso s/n",
+    "type": "EMUSPR",
+    "latitude": "41.9485",
+    "longitude": "-8.7715",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR FP Montecastelo",
+    "address": "Rúa Doctor Paz Pardo 84",
+    "type": "CPR",
+    "latitude": "42.2141",
+    "longitude": "-8.6922",
+    "ownership": "Privada",
+    "concerted": true,
+    "depend": false
+  },
+  {
+    "name": "CPR Fundación Laboral de la Construcción",
+    "address": "Camiño da Raposeira 24",
+    "type": "CPR",
+    "latitude": "42.2140",
+    "longitude": "-8.7025",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR Escola da Banda de Música Popular de Tui",
+    "address": "Lugar Gándara s/n",
+    "type": "EMUSPR",
+    "latitude": "42.0762",
+    "longitude": "-8.6237",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CIFP de Cantería de Galicia",
+    "address": "Rúa Illa do Santo 2",
+    "type": "CIFP",
+    "latitude": "42.4402",
+    "longitude": "-8.6637",
+    "ownership": "Pública",
+    "concerted": false,
+    "depend": true
+  },
+  {
+    "name": "CAD FDYE-Galicia",
+    "address": "Avenida das Camelias 53",
+    "type": "CAD",
+    "latitude": "42.2297",
+    "longitude": "-8.7298",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CEMU Profesional Agrupación Musical do Rosal",
+    "address": "Rúa Couso, s/n - Auditorio",
+    "type": "CEMU",
+    "latitude": "41.9346",
+    "longitude": "-8.8357",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "CPR Nortempo Formación",
+    "address": "Rúa Ourense 2",
+    "type": "CPR",
+    "latitude": "42.2260",
+    "longitude": "-8.7302",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  },
+  {
+    "name": "EMUSPR de Salvaterra de Miño",
+    "address": "Rúa Rosalía de Castro 78",
+    "type": "EMUSPR",
+    "latitude": "42.0837",
+    "longitude": "-8.4998",
+    "ownership": "Privada",
+    "concerted": false,
+    "depend": false
+  }
+]
