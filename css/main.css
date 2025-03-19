@@ -11,7 +11,9 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.H_ib_content{
-    min-width: max-content;
-    margin-top: 20px;
+.lengend{
+    background-color: white;
+    border-radius: 5px;
+    padding: 12px;
 }
+
