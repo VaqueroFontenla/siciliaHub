@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # O la rama que uses para producción
+      - main  # Se ejecuta cuando haces push en main
 
 jobs:
   deploy:
@@ -14,33 +14,19 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    # Configura Node.js (si usas JavaScript/Node.js)
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-
-    # Instalar dependencias (si usas NPM)
-    - name: Install dependencies
-      run: npm install
-
     # Crear archivo de configuración con la API Key
     - name: Create config.js file
       run: |
         mkdir -p js
         echo "const CONFIG = { API_KEY: \"${{ secrets.API_KEY }}\" };" > js/config.js
 
-    # Construir tu proyecto (asumimos que usas npm o yarn)
-    - name: Build project
-      run: npm run build  # O el comando que uses para construir tu proyecto
-
-    # Verificar que el archivo config.js está en el build
-    - name: List build directory
-      run: ls -R build
+    # Verificar archivos generados
+    - name: List files
+      run: ls -R
 
     # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        branch: gh-pages  # Rama donde se hará el deploy
-        folder: build     # Directorio de salida de tu build (cambia según tu configuración)
+        branch: gh-pages  # Se despliega en la rama gh-pages
+        folder: .         # Sube todo el repositorio (porque no tienes un proceso de build)
