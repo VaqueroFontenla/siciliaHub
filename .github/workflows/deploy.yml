@@ -42,4 +42,5 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages  # Se despliega en la rama gh-pages
-        folder: .         # Sube todos los archivos del repositorio
+        folder: .         # Sube todo el contenido del directorio raíz
+        clean: false 
