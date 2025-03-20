@@ -24,9 +24,11 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    # Añadir variables de entorno en el código durante la construcción
-    - name: Set API Key
-      run: echo "API_KEY=${{ secrets.API_KEY }}" >> .env
+    # Crear archivo de configuración con la API Key
+    - name: Create config.js file
+      run: |
+        mkdir -p js
+        echo "const CONFIG = { API_KEY: \"${{ secrets.API_KEY }}\" };" > js/config.js
 
     # Construir tu proyecto (asumimos que usas npm o yarn)
     - name: Build project

@@ -19,11 +19,12 @@ export const initializeMap = () => {
 
   // Step 4: add UI map
   const ui = H.ui.UI.createDefault(map, defaultLayers);
-  ui.removeControl("mapsettings");
-  ui.removeControl("scalebar");
+  ui.removeControl('mapsettings');
+  ui.removeControl('scalebar');
 
   // Step 5: add a resize listener to make sure that the map occupies the whole container
   window.addEventListener("resize", () => map.getViewPort().resize());
 
   return { platform, map, ui };
 };
+
