@@ -1,22 +1,22 @@
-import { getJSONFile, getTextFile } from './utils.js'
+import { getJSONFile, getTextFile } from "./utils.js";
 
 const educationalCentersIcons = {
-  ESMU: 'music', 
-  CMUS: 'music', 
-  EMUSPR: 'music', 
-  CEIP: 'child',
-  CEP: 'child',
-  IES: 'person',
-  CPR: 'sack-dollar',
-  CPI: 'school',
-  ESCO: 'palette',
-  CIFP: 'wrench',
-  EMUSPR: 'sack-dollar',
-  ESAD: 'theater',
-  CEEPR: 'person-cane',
-  EDANPR: 'music',
-  EIO: 'microphone'
-}
+  ESMU: "music",
+  CMUS: "music",
+  EMUSPR: "music",
+  CEIP: "child",
+  CEP: "child",
+  IES: "person",
+  CPR: "sack-dollar",
+  CPI: "school",
+  ESCO: "palette",
+  CIFP: "wrench",
+  EMUSPR: "sack-dollar",
+  ESAD: "theater",
+  CEEPR: "person-cane",
+  EDANPR: "music",
+  EIO: "microphone",
+};
 
 export const loadSchools = async (map, url, ui) => {
   try {
@@ -27,13 +27,15 @@ export const loadSchools = async (map, url, ui) => {
 
     for (const school of schools) {
       const icon = new H.map.Icon(
-        await getTextFile(`../assets/icons/${educationalCentersIcons[school.type] || 'school'}.svg`), 
-        { size: { w: 24, h: 24 } }
+        await getTextFile(
+          `../assets/icons/${educationalCentersIcons[school.type] || "school"}.svg`,
+        ),
+        { size: { w: 24, h: 24 } },
       );
 
       const marker = new H.map.Marker(
-        { lat: school.latitude, lng: school.longitude }, 
-        { icon }
+        { lat: school.latitude, lng: school.longitude },
+        { icon },
       );
 
       // Set the tooltip data for the marker
@@ -44,7 +46,7 @@ export const loadSchools = async (map, url, ui) => {
       </div>`);
 
       // Add click event to display an info bubble
-      marker.addEventListener('tap', (evt) => {
+      marker.addEventListener("tap", (evt) => {
         const bubble = new H.ui.InfoBubble(evt.target.getGeometry(), {
           content: evt.target.getData(),
         });
@@ -61,7 +63,7 @@ export const loadSchools = async (map, url, ui) => {
     }
 
     // Event to show/hide markers based on zoom level
-    map.addEventListener('mapviewchange', () => {
+    map.addEventListener("mapviewchange", () => {
       const currentZoom = map.getZoom();
       markers.forEach((school, marker) => {
         if (currentZoom >= minZoomLevel) {
@@ -78,6 +80,6 @@ export const loadSchools = async (map, url, ui) => {
 
     console.log(`${schools.length} schools loaded successfully`);
   } catch (error) {
-    console.error('Error loading schools:', error);
+    console.error("Error loading schools:", error);
   }
 };

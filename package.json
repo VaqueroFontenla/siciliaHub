@@ -1,0 +1,17 @@
+{
+  "name": "siciliahub",
+  "version": "1.0.0",
+  "description": "Time-Based Isoline map",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}

@@ -1,19 +1,48 @@
 /* Asegura que el mapa ocupe toda la pantalla */
-html, body, #map {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    width: 100%;
+html,
+body,
+#map {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
 }
 
 /* Estilo adicional para personalización futura */
 body {
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
-.lengend{
-    background-color: white;
-    border-radius: 5px;
-    padding: 12px;
+.legend-icon-button {
+  position: absolute;
+  right: 25px;
+  bottom: 120px;
+  font-size: 10px;
+  pointer-events: auto;
+  box-sizing: content-box;
+  cursor: pointer;
+  box-shadow: 0em 0 0.4em 0 rgba(15, 22, 33, 0.6);
+  border-radius: 0.5em;
+  width: 25px;
+  height: 25px;
+  background: #fff;
+  border: 0;
+  padding: 8px;
 }
 
+.legend {
+  display: none;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  min-width: 200px;
+  font-size: 12px;
+}
+
+.show {
+  display: block;
+}

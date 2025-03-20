@@ -1,1 +1,1 @@
-export const loadSchools = async (url) => { }
+export const loadSchools = async (url) => {};
