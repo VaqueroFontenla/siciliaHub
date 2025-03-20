@@ -12,13 +12,13 @@ jobs:
     steps:
     # Check out the repository
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     # Configura Node.js (si usas JavaScript/Node.js)
     - name: Set up Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
       with:
-        node-version: '14'
+        node-version: '18'
 
     # Instalar dependencias (si usas NPM)
     - name: Install dependencies
@@ -34,10 +34,13 @@ jobs:
     - name: Build project
       run: npm run build  # O el comando que uses para construir tu proyecto
 
+    # Verificar que el archivo config.js está en el build
+    - name: List build directory
+      run: ls -R build
+
     # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@v4.1.0
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages  # Rama donde se hará el deploy
         folder: build     # Directorio de salida de tu build (cambia según tu configuración)
-        token: ${{ secrets.GITHUB_TOKEN }}
