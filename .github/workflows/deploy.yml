@@ -37,6 +37,10 @@ jobs:
     - name: List files before deploy
       run: find . -type f
 
+    - name: Force push main to gh-pages   
+      run: |
+        git push origin main:gh-pages -f
+
     # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
