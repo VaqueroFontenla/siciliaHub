@@ -35,12 +35,21 @@ jobs:
 
     # Verificar si config.js se creó correctamente
     - name: List files before deploy
-      run: ls -R
+      run: find . -type f
 
-    # Subir archivos al branch gh-pages
+    # Configurar Git y commitear los cambios en la rama gh-pages
+    - name: Commit changes to gh-pages
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add .
+        git commit -m "Add config.js to gh-pages"
+        git push origin HEAD:gh-pages
+
+    # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages  # Se despliega en la rama gh-pages
-        folder: .         # Sube todo el contenido del directorio raíz
-        clean: false 
+        folder: .         # Sube todo el contenido
+        clean: false      # Evita que se borren archivos previos
