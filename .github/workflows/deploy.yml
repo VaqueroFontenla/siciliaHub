@@ -37,15 +37,6 @@ jobs:
     - name: List files before deploy
       run: find . -type f
 
-    # Configurar Git y commitear los cambios en la rama gh-pages
-    - name: Commit changes to gh-pages
-      run: |
-        git config --global user.name "Loreto"
-        git config --global user.email "loreto@guud.tv"
-        git add .
-        git commit -m "Add config.js to gh-pages"
-        git push origin HEAD:gh-pages
-
     # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
