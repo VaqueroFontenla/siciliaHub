@@ -1,0 +1,41 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # O la rama que uses para producción
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Check out the repository
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    # Configura Node.js (si usas JavaScript/Node.js)
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    # Instalar dependencias (si usas NPM)
+    - name: Install dependencies
+      run: npm install
+
+    # Añadir variables de entorno en el código durante la construcción
+    - name: Set API Key
+      run: echo "API_KEY=${{ secrets.API_KEY }}" >> .env
+
+    # Construir tu proyecto (asumimos que usas npm o yarn)
+    - name: Build project
+      run: npm run build  # O el comando que uses para construir tu proyecto
+
+    # Desplegar a GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@v4.1.0
+      with:
+        branch: gh-pages  # Rama donde se hará el deploy
+        folder: build     # Directorio de salida de tu build (cambia según tu configuración)
+        token: ${{ secrets.GITHUB_TOKEN }}
