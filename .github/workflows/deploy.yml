@@ -13,6 +13,8 @@ jobs:
     # Check out the repository
     - name: Checkout code
       uses: actions/checkout@v3
+      with:
+        persist-credentials: false
 
     # Crear archivo de configuración con la API Key
     - name: Create config.js file
