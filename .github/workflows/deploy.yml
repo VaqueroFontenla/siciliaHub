@@ -16,6 +16,16 @@ jobs:
       with:
         persist-credentials: false
 
+    # Debug: Ver si la API_KEY está disponible
+    - name: Check if API_KEY exists
+      run: |
+        if [[ -z "${{ secrets.API_KEY }}" ]]; then
+          echo "ERROR: API_KEY está vacío o no está configurado en los Secrets de GitHub."
+          exit 1
+        else
+          echo "API_KEY está configurado correctamente."
+        fi
+
     # Crear archivo de configuración con la API Key
     - name: Create config.js file
       run: |
@@ -31,4 +41,4 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages  # Se despliega en la rama gh-pages
-        folder: .         # Sube todo el repositorio (porque no tienes un proceso de build)
+        folder: .         # Sube todo el repositorio
