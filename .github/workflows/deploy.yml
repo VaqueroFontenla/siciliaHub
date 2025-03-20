@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Check out the repository
+    # Checkout del repositorio
     - name: Checkout code
       uses: actions/checkout@v3
       with:
         persist-credentials: false
 
-    # Debug: Ver si la API_KEY está disponible
+    # Verificar si API_KEY está configurado
     - name: Check if API_KEY exists
       run: |
         if [[ -z "${{ secrets.API_KEY }}" ]]; then
@@ -31,14 +31,15 @@ jobs:
       run: |
         mkdir -p js
         echo "const CONFIG = { API_KEY: \"${{ secrets.API_KEY }}\" };" > js/config.js
+        cat js/config.js  # Muestra el contenido del archivo en los logs
 
-    # Verificar archivos generados
-    - name: List files
+    # Verificar si config.js se creó correctamente
+    - name: List files before deploy
       run: ls -R
 
-    # Desplegar a GitHub Pages
+    # Subir archivos al branch gh-pages
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages  # Se despliega en la rama gh-pages
-        folder: .         # Sube todo el repositorio
+        folder: .         # Sube todos los archivos del repositorio
