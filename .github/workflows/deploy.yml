@@ -40,6 +40,8 @@ jobs:
     # Configurar Git y commitear los cambios en la rama gh-pages
     - name: Commit changes to gh-pages
       run: |
+        git config --global user.name "Loreto"
+        git config --global user.email "loreto@guud.tv"
         git add .
         git commit -m "Add config.js to gh-pages"
         git push origin HEAD:gh-pages
