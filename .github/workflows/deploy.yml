@@ -8,7 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
 
@@ -44,7 +44,7 @@ jobs:
     - name: Setup GitHub token
       run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
 
-    # Force push main to gh-pages
+    # Configurar Git y commitear los cambios en la rama gh-pages
     - name: Force push main to gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -52,7 +52,9 @@ jobs:
         git config --global user.email "loreto@guud.tv"
         git config --global user.name "Loreto"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-        git push origin main:gh-pages -f
+        git add .
+        git commit -m "Add config.js to gh-pages"
+        git push origin HEAD:gh-pages
 
     # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
