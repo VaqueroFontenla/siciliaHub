@@ -38,8 +38,7 @@ jobs:
       run: find . -type f
 
     - name: Force push main to gh-pages   
-      run: |
-        git push origin main:gh-pages -f
+      run: git push origin main:gh-pages -f
 
     # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
