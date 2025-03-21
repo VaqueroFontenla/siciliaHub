@@ -54,7 +54,7 @@ jobs:
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git add .
         git commit -m "Add config.js to gh-pages"
-        git push origin HEAD:gh-pages
+        git push origin gh-pages -f
 
     # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
