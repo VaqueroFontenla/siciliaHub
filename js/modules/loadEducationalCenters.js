@@ -1,4 +1,5 @@
 import { getJSONFile, getTextFile } from "./utils.js";
+import { baseURL } from '../constants.js'
 
 const educationalCentersIcons = {
   ESMU: "music",
@@ -28,7 +29,7 @@ export const loadSchools = async (map, url, ui) => {
     for (const school of schools) {
       const icon = new H.map.Icon(
         await getTextFile(
-          `../assets/icons/${educationalCentersIcons[school.type] || "school"}.svg`,
+          `${baseURL}/assets/icons/${educationalCentersIcons[school.type] || "school"}.svg`,
         ),
         { size: { w: 24, h: 24 } },
       );
