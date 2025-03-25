@@ -27,8 +27,8 @@ export const downloadJSON = (data) => {
 
 export const getJSONFile = async (url) => {
   try {
+    console.log({url})
     const response = await fetch(url);
-    console.log({url, reponse})
     if (!response.ok) {
       throw new Error(`Error to load file: ${response.statusText}`);
     }
