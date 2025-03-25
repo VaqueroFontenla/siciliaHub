@@ -31,19 +31,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-  # Crear archivo de configuración con la API Key
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+    # Crear archivo de configuración con la API Key
       - name: Create config.js file
         run: |
           mkdir -p js
           echo "const CONFIG = { API_KEY: \"${{ secrets.API_KEY }}\" };" > js/config.js
           cat js/config.js  # Muestra el contenido del archivo en los logs
-
-  # Verificar si config.js se creó correctamente
+    # Verificar si config.js se creó correctamente
       - name: List files before deploy
         run: find . -type f
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+    # Copiar assets/data
+      - name: Copiar assets y data al directorio de despliegue
+        run: |
+          mkdir -p public
+          cp -r assets public/
+          cp -r data public/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
