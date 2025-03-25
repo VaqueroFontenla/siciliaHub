@@ -4,6 +4,7 @@ import {
   TOLL_FREE_30_MIN_DRIVE_VIGO_STYLES,
   TOLL_FREE_45_MIN_DRIVE_VIGO_STYLES,
   HOUR_PUBLIC_TRANSPORT_VIGO_STYLES,
+  baseURL,
 } from "./constants.js";
 import { loadSchools } from "./modules/loadEducationalCenters.js";
 import { generateLegend } from "./modules/generateLegend.js";
@@ -12,8 +13,6 @@ import { generateLegend } from "./modules/generateLegend.js";
 
 // Inicializa el mapa y obtiene la plataforma configurada
 const { platform, map, ui } = initializeMap();
-
-const baseURL = window.location.href;
 
 // Carga la isolínea de la carpeta data
 loadIsolineRoute(

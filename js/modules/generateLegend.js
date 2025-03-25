@@ -1,4 +1,5 @@
 import { getTextFile } from "./utils.js";
+import { baseURL } from '../constants.js'
 
 const legendItemListStyles = {
   listStyleType: "none",
@@ -27,47 +28,47 @@ const categories = [
     title: "Centros Educativos",
     items: [
       {
-        icon: "../assets/icons/music.svg",
+        icon: `${baseURL}/assets/icons/music.svg`,
         color: "#EF2B7C",
         label: "Escuela de música",
       },
       {
-        icon: "../assets/icons/sack-dollar.svg",
+        icon: `${baseURL}/assets/icons/sack-dollar.svg`,
         color: "#DAA520",
         label: "Escuela privada",
       },
       {
-        icon: "../assets/icons/child.svg",
+        icon: `${baseURL}/assets/icons/child.svg`,
         color: "#008f39",
         label: "Escuela infantil/primaria",
       },
       {
-        icon: "../assets/icons/person.svg",
+        icon: `${baseURL}/assets/icons/person.svg`,
         color: "#572364",
         label: "Instituto",
       },
       {
-        icon: "../assets/icons/school.svg",
+        icon:`${baseURL}/assets/icons/school.svg`,
         color: "#009DCF",
         label: "Centro iniciativas profesionales",
       },
       {
-        icon: "../assets/icons/palette.svg",
+        icon: `${baseURL}/assets/icons/palette.svg`,
         color: "#FF8000",
         label: "FP Marítimo Pesquera",
       },
       {
-        icon: "../assets/icons/wrench.svg",
+        icon: `${baseURL}/assets/icons/wrench.svg`,
         color: "#9B9B9B",
         label: "Formación Profesional",
       },
       {
-        icon: "../assets/icons/microphone.svg",
+        icon: `${baseURL}/assets/icons/microphone.svg`,
         color: "#ff0000",
         label: "Escuela idiomas",
       },
       {
-        icon: "../assets/icons/theater.svg",
+        icon: `${baseURL}/assets/icons/theater.svg`,
         color: "#6C3B2A",
         label: "Escuela Arte Dramático",
       },
@@ -77,17 +78,17 @@ const categories = [
     title: "Isolíneas",
     items: [
       {
-        icon: "../assets/icons/30Min.svg",
+        icon: `${baseURL}/assets/icons/30Min.svg`,
         color: "#008f39",
         label: "30 minutos coche (sin peajes)",
       },
       {
-        icon: "../assets/icons/45Min.svg",
+        icon: `${baseURL}/assets/icons/45Min.svg`,
         color: "#EF2B7C",
         label: "45 minutos coche (sin peajes)",
       },
       {
-        icon: "../assets/icons/hour.svg",
+        icon: `${baseURL}/assets/icons/hour.svg`,
         color: "#5dc1b9",
         label: "Una hora transporte público",
       },

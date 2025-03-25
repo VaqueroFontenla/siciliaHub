@@ -42,3 +42,5 @@ export const HOUR_PUBLIC_TRANSPORT_VIGO_STYLES = {
   lineWidth: 4,
   strokeColor: "#5dc1b9",
 };
+
+export const baseURL = window.location.href;
