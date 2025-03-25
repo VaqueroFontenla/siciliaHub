@@ -13,7 +13,7 @@ import { generateLegend } from "./modules/generateLegend.js";
 // Inicializa el mapa y obtiene la plataforma configurada
 const { platform, map, ui } = initializeMap();
 
-const baseURL = window.location.origin;
+const baseURL = window.location.href;
 
 // Carga la isolínea de la carpeta data
 loadIsolineRoute(
