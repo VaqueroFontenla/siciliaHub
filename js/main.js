@@ -13,24 +13,26 @@ import { generateLegend } from "./modules/generateLegend.js";
 // Inicializa el mapa y obtiene la plataforma configurada
 const { platform, map, ui } = initializeMap();
 
+const baseURL = window.location.origin;
+
 // Carga la isolínea de la carpeta data
 loadIsolineRoute(
   map,
   TOLL_FREE_30_MIN_DRIVE_VIGO_STYLES,
-  "../data/tollFree30MinVigoDrive.json",
+  `${baseURL}/data/tollFree30MinVigoDrive.json`,
 );
 loadIsolineRoute(
   map,
   TOLL_FREE_45_MIN_DRIVE_VIGO_STYLES,
-  "../data/tollFree45MinVigoDrive.json",
+  `${baseURL}/data/tollFree45MinVigoDrive.json`,
 );
 loadIsolineRoute(
   map,
   HOUR_PUBLIC_TRANSPORT_VIGO_STYLES,
-  "../data/hourPublicBusVigo.json",
+  `${baseURL}/data/hourPublicBusVigo.json`,
 );
 
-loadSchools(map, "../data/educationalCenters.json", ui);
+loadSchools(map, `${baseURL}/data/educationalCenters.json`, ui);
 generateLegend();
 // Calcula la isolínea usando la plataforma y el mapa
 //calculateIsolineRoute(platform, map, TOLL_FREE_30_MIN_DRIVE_VIGO_REQUEST_PARAMS, TOLL_FREE_30_MIN_DRIVE_VIGO_STYLES);
