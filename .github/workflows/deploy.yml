@@ -39,15 +39,10 @@ jobs:
           mkdir -p js
           echo "const CONFIG = { API_KEY: \"${{ secrets.API_KEY }}\" };" > js/config.js
           cat js/config.js  # Muestra el contenido del archivo en los logs
-      # Verificar si config.js se creó correctamente
-      - name: List files before deploy
-        run: find . -type f
-      # Copiar assets/data
-      - name: Copiar assets y data al directorio de despliegue
-        run: |
-          mkdir -p public
-          cp -r assets public/
-          cp -r data public/
+      # Formatear el código
+      - name: Format code
+        run: npm run format
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
