@@ -47,10 +47,10 @@ jobs:
     - name: List files before deploy
       run: find . -type f
 
-    # Setup GitHub token
-    - name: Setup GitHub token
-      run: |
-        echo "$GH_TOKEN" | gh auth login --with-token
+    # # Setup GitHub token
+    # - name: Setup GitHub token
+    #   run: |
+    #     echo "$GH_TOKEN" | gh auth login --with-token
 
     # Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
